@@ -1,0 +1,33 @@
+CFLAGS = -Wall -O1 -std=gnu11 #-DNDEBUG
+CFLAGS += $(shell /usr/bin/gsl-config --cflags)
+LDLIBS += $(shell /usr/bin/gsl-config --libs)
+CC = gcc
+
+Decomp.pyxplot.png: out_decomp.txt out_gsl.txt Makefile main MeasureDecompTime.o out.txt
+	echo '\
+	set terminal png;\
+	set output "$@";\
+	set key top left;\
+	set tics out;\
+	set xlabel "N";\
+	set ylabel "Time (s)";\
+	set title "Our function";\
+	plot \
+	"out_decomp.txt" using 1:2 with points title "Our decomp"\
+	,"out_gsl.txt" using 1:2 with points title "Gsl decomp"\
+	' | tee tmp.gpi | pyxplot
+
+out.txt: main 
+	./$< > $@
+
+out_decomp.txt out_gsl.txt: MeasureDecompTime.o
+
+
+main: main.o GS_decomp.o MeasureDecompTime.o GS_solve.o inverse.o
+
+main.o GS_decomp.o MeasureDecompTime.o: GS_decomp.c MeasureDecompTime.c GS_solve.c inverse.c
+        
+    
+    
+clean: 
+	$(RM) main main.o GS_decomp.o out.txt Decomp.pyxplot.png out_gsl.txt out_decomp.txt
