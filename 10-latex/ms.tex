@@ -32,7 +32,7 @@ This algoritm is smart compared to the usual sum for computer calculations:
 1+x + x^2/2! + x^3/3! + \cdots \;.
     \end{equation}
 For negative x-values, this sum would give alternating positive and negative contributions to the sum, which gives greater uncertainty than the one for the quick-and-dirty algoritm. \newline
-The second step is made, since the taylor series is not very precise for small numbers. \newline
+The second step ensures, that we only apply the truncanted series to small arguments for which the uncertainty is smaller. \newline
 The third step is simply the convulted expression for the Taylor series, which is very accurate for larger positive numbers. It also uses less operations than the sum (if it was also expanded to 10), which used to be a great advantage (slightly smaller advantage now with faster computers though). \newline
  
 \section{Figures}
