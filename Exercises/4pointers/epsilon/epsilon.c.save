@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <limits.h>
+#include <float.h>
+
+// Man kan ramme limit ved at compile med clang og køre uden -O option. 
+
+
+int main(){
+	//int i=1; while(i+1>i) {i++; if(i>100000) break;}
+	//printf("my max int = %i \n", i);
+	//i=1; 
+	//for (i = 1; i+1>i; i++) {if(i>100000) break;};
+	//printf("my max int = %i\n", i);
+	//i=1; 	
+	//do{
+	//i++;
+	//if(i>100000) break;} 
+	//while(i+1>i);
+	//printf("my max int = %i\n", i);
+	//double x = 1; while(1+x != 1) {x/=2;} x*=2;
+	//printf("x = %g\n", x);
+	//float y  = 1; while(1+y != 1) {y/=2;} y*=2; 
+	//printf("y = %f\n", y); 
+	//long double z = 1; while(1+z != 1) {z/=2;} z*=2;
+	//printf("z = %Lg\n", z);  
+	int max = 2147483647/2; 
+	//i 
+	float sum_up_float = 0; 
+	int i = 1;
+	for (i = 1; i<max; i++) {
+		sum_up_float += 1.0f/i;
+	}
+	printf("i = %d \n",i); 
+	printf("sum_up_float = %g \n", sum_up_float);
+M&
+	float sum_down_float = 1.0f/max;
+	for (i = 1; i<max; i++) {
+	sum_down_float +=1.0f/(max-i);
+	}
+	
+return 0;
+}
