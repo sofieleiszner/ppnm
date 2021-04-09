@@ -48,16 +48,32 @@ void fSIR(double x, gsl_vector* y, gsl_vector* dydx){
 
 
 void fNewton(double x, gsl_vector* y, gsl_vector* dydx){
-    double G = 6.67*pow(10,-11); //N*m^2/kg^2 
-    double m1 = 1e12; //kg
-    double m2 = 2e12; //kg
-    double m3 = 3e12; //kg
-    double r1 = gsl_vector_get(y,0);
-    double r2 = gsl_vector_get(y,1);
-    double r3 = gsl_vector_get(y,2);
-    gsl_vector_set(dydx,0,-G*m2*(r1-r2)/pow((r1-r2),3)-G*m3*(r1-r3)/pow((r1-r3),3)); 
-    gsl_vector_set(dydx,1,-G*m3*(r2-r3)/pow((r2-r3),3)-G*m1*(r2-r1)/pow((r2-r1),3)); 
-    gsl_vector_set(dydx,2,-G*m1*(r3-r1)/pow((r3-r1),3)-G*m2*(r3-r2)/pow((r3-r2),3)); 
+    gsl_vector_set(dydx,0,gsl_vector_get(y,6));
+    gsl_vector_set(dydx,1,gsl_vector_get(y,7));
+    gsl_vector_set(dydx,2,gsl_vector_get(y,8));
+    gsl_vector_set(dydx,3,gsl_vector_get(y,9));
+    gsl_vector_set(dydx,4,gsl_vector_get(y,10));
+    gsl_vector_set(dydx,5,gsl_vector_get(y,11));
+    
+    double y0 = gsl_vector_get(y,0);
+    double y1 = gsl_vector_get(y,1);
+    double y2 = gsl_vector_get(y,2);
+    double y3 = gsl_vector_get(y,3);
+    double y4 = gsl_vector_get(y,4);
+    double y5 = gsl_vector_get(y,5);
+    
+    double R1 = pow(pow(y2-y0,2)+pow(y3-y1,2),0.5); //Længe^2 mellem r1 og r2
+    double R2 = pow(pow(y4-y0,2)+pow(y5-y1,2),0.5); //Mellem r1 og r3
+    double R3 = pow(pow(y4-y2,2)+pow(y5-y3,2),0.5); //r2 og r3
+      
+    
+    gsl_vector_set(dydx,6,-(y0-y2)/pow(R1,3)-(y0-y4)/pow(R2,3)); 
+    gsl_vector_set(dydx,7,-(y1-y3)/pow(R1,3)-(y1-y5)/pow(R2,3)); 
+    gsl_vector_set(dydx,8, -(y2-y4)/pow(R3,3)-(y2-y0)/pow(R1,3)); 
+    gsl_vector_set(dydx,9, -(y3-y5)/pow(R3,3)-(y3-y1)/pow(R1,3)); 
+    gsl_vector_set(dydx,10,-(y4-y0)/pow(R2,3)-(y4-y2)/pow(R3,3)); 
+    gsl_vector_set(dydx,11,-(y5-y1)/pow(R2,3)-(y5-y3)/pow(R3,3)); 
+
 }
 
 
@@ -82,13 +98,22 @@ int main() {
     driver(fSIR, a, yaSIR, b, ybSIR, h, acc, eps, "TheWaySIR.txt"); 
     
     //Newton
-    n = 3; 
+    n = 12; 
     gsl_vector* yaNewton = gsl_vector_alloc(n); 
     gsl_vector* ybNewton = gsl_vector_alloc(n); 
-    gsl_vector_set(yaNewton,0,1); 
-    gsl_vector_set(yaNewton,1,2); 
-    gsl_vector_set(yaNewton,2,4); 
-    a = 0, b = 100, h = 0.01, acc = 1e-3, eps = 1e-3;
+    gsl_vector_set(yaNewton,0, 0.97000436); 
+    gsl_vector_set(yaNewton,1, -0.24308753); 
+    gsl_vector_set(yaNewton,2, -0.97000436); 
+    gsl_vector_set(yaNewton,3, 0.24308753); 
+    gsl_vector_set(yaNewton,4, 0); 
+    gsl_vector_set(yaNewton,5, 0); 
+    gsl_vector_set(yaNewton,6, 0.93240737/2); 
+    gsl_vector_set(yaNewton,7, 0.86473146/2); 
+    gsl_vector_set(yaNewton,8, 0.93240737/2); 
+    gsl_vector_set(yaNewton,9,0.86473146/2); 
+    gsl_vector_set(yaNewton,10, -0.93240737); 
+    gsl_vector_set(yaNewton,11, -0.86473146); 
+    a = 0, b = 10, h = 0.01, acc = 1e-3, eps = 1e-3;
     driver(fNewton, a, yaNewton, b, ybNewton, h, acc, eps, "TheWayNewton.txt"); 
     
     

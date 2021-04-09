@@ -3,7 +3,7 @@ CFLAGS += $(shell /usr/bin/gsl-config --cflags)
 LDLIBS += $(shell /usr/bin/gsl-config --libs)
 CC = gcc
 
-default: TheWay.pyxplot.png TheWaySIR.pyxplot.png TheWayNewton.pyxplot.png
+default: TheWay.pyxplot.png TheWaySIR.pyxplot.png TheWayNewton.pyxplot.png Figure8_Newton.pyxplot.png
 
 TheWay.pyxplot.png: TheWay.txt main Makefile out.txt
 	echo '\
@@ -43,11 +43,27 @@ TheWayNewton.pyxplot.png: TheWayNewton.txt main Makefile out.txt
 	set tics out;\
 	set xlabel "Time";\
 	set ylabel "Distance";\
-	set title "SIR";\
+	set title "Newton";\
 	plot \
-	"TheWayNewton.txt" using 1:2 with points title "Susceptible"\
-	,"TheWayNewton.txt" using 1:3 with points title "Infectious"\
-	,"TheWayNewton.txt" using 1:4 with points title "Recovered or dead"\
+	"TheWayNewton.txt" using 1:2 with lines title  "x1"\
+	,"TheWayNewton.txt" using 1:3 with lines title "y1"\
+	,"TheWayNewton.txt" using 1:4 with lines title "x2"\
+	,"TheWayNewton.txt" using 1:5 with lines title "y2"\
+	,"TheWayNewton.txt" using 1:6 with lines title "x3"\
+	,"TheWayNewton.txt" using 1:7 with lines title "y3"\
+	' | tee tmp.gpi | pyxplot
+
+Figure8_Newton.pyxplot.png: TheWayNewton.txt main Makefile out.txt
+	echo '\
+	set terminal png;\
+	set output "$@";\
+	set key top left;\
+	set tics out;\
+	set xlabel "x1";\
+	set ylabel "y1";\
+	set title "Newton: Reproducing fig. 8";\
+	plot \
+	"TheWayNewton.txt" using 2:3 with lines\
 	' | tee tmp.gpi | pyxplot
 
 
