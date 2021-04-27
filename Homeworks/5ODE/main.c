@@ -82,8 +82,8 @@ int main() {
     int n = 2; 
     gsl_vector* ya = gsl_vector_alloc(n); 
     gsl_vector* yb = gsl_vector_alloc(n); 
-    gsl_vector_set(ya,0,0); 
-    gsl_vector_set(ya,1,1);   
+    gsl_vector_set(ya,0,0); //sin(0) = 0
+    gsl_vector_set(ya,1,1); //sin'(0) = cos(0) = 1
     double a = 0, b = 7, h = 0.1, acc = 1e-2, eps = 1e-2;
     driver(f1, a, ya, b, yb, h, acc, eps, "TheWay.txt"); 
     

@@ -50,7 +50,6 @@ void driver(
 ){ 
 FILE * file = fopen(filename, "w"); 
 int n = ya->size;
-gsl_vector* yh = gsl_vector_alloc(n); 
 gsl_vector* dy = gsl_vector_alloc(n); 
 double err = 0, normy = 0, tol = 0; 
 int i; 
@@ -59,7 +58,7 @@ while(a < b){
     //gsl_vector y = ycur; 
     if(a+h>b) {
         h = b-a; }
-    rkstep12(f, a, ya, h, yh, dy); 
+    rkstep12(f, a, ya, h, yb, dy); 
     double s = 0.0; 
     for (i=0; i<n; i++) {
         s+= gsl_vector_get(dy,i)*gsl_vector_get(dy, i); 
@@ -67,7 +66,7 @@ while(a < b){
     }
     s = 0.0; 
     for (i=0; i<n; i++) {
-        s+= gsl_vector_get(yh,i)*gsl_vector_get(yh, i); 
+        s+= gsl_vector_get(yb,i)*gsl_vector_get(yb, i); 
         normy = sqrt(s); 
     }
     
@@ -77,7 +76,7 @@ while(a < b){
         //if(k>max-1) return -k; 
         a += h; 
         for(i = 0; i<n; i++) {
-            gsl_vector_set(ya,i, gsl_vector_get(yh,i)); 
+            gsl_vector_set(ya,i, gsl_vector_get(yb,i)); 
         }
             fprintf(file, "%10g ", a); 
         for (i = 0; i<ya->size; i++) {

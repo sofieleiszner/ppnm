@@ -1,0 +1,13 @@
+\
+set terminal png;\
+set output "C1And2.pyxplot.png";\
+set key top right;\
+set tics out;\
+set xlabel "rmax";\
+set ylabel "Energy";\
+set title "C2";\
+plot \
+"C1.txt" using 1:2 with points title "C1"\
+,"C2.txt" using 1:2 with points title "C2"\
+    , -0.5 with lines title "Exact Result"\
+
