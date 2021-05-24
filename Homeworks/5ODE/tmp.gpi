@@ -3,9 +3,9 @@ set terminal png;\
 set output "Figure8_Newton.pyxplot.png";\
 set key top left;\
 set tics out;\
-set xlabel "x1";\
-set ylabel "y1";\
-set title "Newton: Reproducing fig. 8";\
+set xlabel "\(x_1\)";\
+set ylabel "\(y_1\)";\
+set title "Newtonian gravitational three-body problem: Reproducing fig. 8";\
 plot \
-"TheWayNewton.txt" using 2:3 with lines\
+"PathNewton.txt" using 2:3 with lines title "Figure 8 Solution"\
 

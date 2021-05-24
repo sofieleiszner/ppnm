@@ -5,7 +5,7 @@
 #include <gsl/gsl_blas.h>
 
 
-void f1(gsl_vector* x,gsl_vector* fx){
+void f1(gsl_vector* x,gsl_vector* fx){ //(x+1)^2
     gsl_vector_set(fx,0,pow(gsl_vector_get(x,0)+1,2));        
 }
 
@@ -13,7 +13,7 @@ void f2(gsl_vector* x,gsl_vector* fx){
     double vx = gsl_vector_get(x,0); 
     double vy = gsl_vector_get(x,1); 
     gsl_vector_set(fx,0,400*vx*vx*vx+(2-400*vy)*vx-2);        
-    gsl_vector_set(fx,1,200*vy-200*vx*vx); //Tror det skal være 200y-200x^2       
+    gsl_vector_set(fx,1,200*vy-200*vx*vx);      
 }
 
 double e; 
@@ -69,30 +69,45 @@ void vector_print(char s[], gsl_vector* v);
 
 
 int main(){
-    //A
+    
+    printf("Task A\n");
+    printf("Implements the function newton\n");
+    printf("Finds roots of the function: f(x)=(x+1)^2\n");
     gsl_vector*x = gsl_vector_alloc(1);
     gsl_vector_set(x,0,5); 
     double eps = 0.0001;
     newton(f1,x,eps);
-    vector_print("x =", x);
-    
+    vector_print("x_root =", x);
+    printf("The exact result is -1 \n");
+
+    printf("Finds extremums of Rosenbrock's valley function f(x,y)=(1-x)^2+100*(y-x^2)^2 \n");
     gsl_vector*x2 = gsl_vector_alloc(2);
     gsl_vector_set(x2,0,10);
     gsl_vector_set(x2,1,10);
     newton(f2,x2,eps);
-    vector_print("x2 =", x2);   
-    
+    vector_print("x_min =", x2);   
+    printf("The exact result is (1,1) \n");
+
     gsl_vector_free(x);
     
     //B
+    printf("\nTask B\n");
+    printf("Bound states of hydrogen atom with shooting method for boundary value problems \n");
+    printf("Finds the lowest root ε0 of the equation M(ε)=0 for rmax = 8\n");
     rmax = 8; 
     gsl_vector* x3 = gsl_vector_alloc(1);
     gsl_vector_set(x3,0,-1);
     eps = 1e-6; 
     newton(g,x3,eps);
-    vector_print("e =", x3);
+    vector_print("ε0 =", x3);
+    printf("The exact result is -1/2 \n");
+    printf("The data is put into hydrogenatom.txt\n");
+    printf("See plot of the resulting function in Hydrogen.pyxplot.png\n");
 
     //C
+    printf("\nTask C\n");
+    printf("Uses the boundary condition f(rmax)=0 to investigate convergence of \
+the solution as a function of rmax \n");
     gsl_vector* x4 = gsl_vector_alloc(1);
     FILE * file = fopen("C1.txt", "w"); 
     for(rmax = 2.5; rmax<15; rmax+=(double)1/2){
@@ -100,7 +115,10 @@ int main(){
         newton(g,x4,eps);
         fprintf(file,"%8.3g %.15g \n", rmax, gsl_vector_get(x4,0));
     }
+    printf("The data is put into C1.txt\n");
+    printf("See plot C1.pyxplot.png\n");
     
+    printf("Uses the boundary condition f(rmax->infinity)= r*exp(-k*r) instead for k = sqrt(-2ε)\n");
     gsl_vector* x5 = gsl_vector_alloc(1);
     FILE * file2 = fopen("C2.txt", "w"); 
     for(rmax = 2.5; rmax<15; rmax+=(double)1/2){
@@ -108,7 +126,10 @@ int main(){
         newton(g2,x5,eps);
         fprintf(file2,"%8.3g %.15g \n", rmax, gsl_vector_get(x5,0));
     }
-    
+    printf("The data is put into C2.txt\n");
+    printf("See plot C2.pyxplot.png\n");
+    printf("For comparisson of the two see C1AndC2.pyxplot.png\n");
+    printf("The plot shows that C2 converges much faster to the correct solution\n");
     fclose(file);
     fclose(file2);
 }

@@ -12,9 +12,8 @@ void vector_print(char s[], gsl_vector* v);
 void GS_inverse(gsl_matrix* Q, gsl_matrix* R, gsl_matrix* B);
 
 int main(){
-    
-    int N = 6; int M = 6; 
 
+    int N = 6; int M = 6; 
     gsl_matrix* A = gsl_matrix_alloc(N, M); 
     gsl_matrix* A_save = gsl_matrix_alloc(N, M); 
     gsl_matrix* R = gsl_matrix_alloc(M, M); 
@@ -68,17 +67,17 @@ int main(){
     GS_inverse(A, R, B);
     matrix_print("Inverse of A, B=", B);
 
-    printf("Checks that AB = I"); 
+    printf("Checks that AB = I \n"); 
     gsl_matrix* AB = gsl_matrix_alloc(N,N); 
     gsl_blas_dgemm(CblasNoTrans, CblasNoTrans, 1.0, A_save, B, 0.0, AB); 
     matrix_print("AB =", AB); 
-    printf("Checks that BA = I"); 
+    printf("Checks that BA = I\n"); 
     gsl_matrix* BA = gsl_matrix_alloc(N,N); 
     gsl_blas_dgemm(CblasNoTrans, CblasNoTrans, 1.0, B, A_save, 0.0, BA); 
     matrix_print("BA =", BA); 
 
     printf("\nTASK C \n");
-    printf("For time measuring, see .png file \n"); 
+    printf("For time measuring, see Decomp.png file \n"); 
     
     
     gsl_matrix_free(A); 

@@ -3,15 +3,15 @@ CFLAGS += $(shell /usr/bin/gsl-config --cflags)
 LDLIBS += $(shell /usr/bin/gsl-config --libs)
 CC = gcc
 
-Decomp.pyxplot.png: out_decomp.txt out_gsl.txt Makefile main out.txt
+Decomp.png: out_decomp.txt out_gsl.txt Makefile main out.txt
 	echo '\
 	set terminal png;\
 	set output "$@";\
 	set key top left;\
 	set tics out;\
-	set xlabel "N";\
+	set xlabel "N (Matrix of size NxN)";\
 	set ylabel "Time (s)";\
-	set title "Our function";\
+	set title "Performance of our function compared to GSL: QR-Decomposition";\
     a=1; b=3; f(x)=a*x**b ;\
 	c=1; d=2; g(x)=c*x**d ;\
 	fit f(x) "out_decomp.txt" using 1:2 via a,b ;\
@@ -28,7 +28,7 @@ out.txt: main
 
 out_decomp.txt out_gsl.txt: main
         
-main: functions.c main.c 
+main: functions.o main.o 
 
 clean: 
 	$(RM) main *.o *.txt *.gpi *.png *.log

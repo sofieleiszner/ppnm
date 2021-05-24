@@ -78,16 +78,22 @@ void fNewton(double x, gsl_vector* y, gsl_vector* dydx){
 
 
 int main() {
-    //Checks sinusfunction
+    printf("Task A and B\n");
+    printf("Builds rkstep12 and driver\n");
+    printf("Checks if the routines work with the example u''=-u \n"); 
+    printf("Data is put into Path_u_uprime.txt and plotted in Path_u_uprime.pyxplot.png\n"); 
     int n = 2; 
     gsl_vector* ya = gsl_vector_alloc(n); 
     gsl_vector* yb = gsl_vector_alloc(n); 
     gsl_vector_set(ya,0,0); //sin(0) = 0
     gsl_vector_set(ya,1,1); //sin'(0) = cos(0) = 1
     double a = 0, b = 7, h = 0.1, acc = 1e-2, eps = 1e-2;
-    driver(f1, a, ya, b, yb, h, acc, eps, "TheWay.txt"); 
+    driver(f1, a, ya, b, yb, h, acc, eps, "Path_u_uprime.txt"); 
     
     //SIR
+    printf("Uses routines on SIR model of epidemic devolpment \n");
+    printf("Data is put into PathSIR.txt and plotted in PathSIR.pyxplot.png\n"); 
+
     n = 3; 
     gsl_vector* yaSIR = gsl_vector_alloc(n); 
     gsl_vector* ybSIR = gsl_vector_alloc(n); 
@@ -95,9 +101,13 @@ int main() {
     gsl_vector_set(yaSIR,1,10); 
     gsl_vector_set(yaSIR,2,0); 
     a = 0, b = 150, h = 0.1, acc = 1e-3, eps = 1e-3;
-    driver(fSIR, a, yaSIR, b, ybSIR, h, acc, eps, "TheWaySIR.txt"); 
+    driver(fSIR, a, yaSIR, b, ybSIR, h, acc, eps, "PathSIR.txt"); 
     
     //Newton
+    printf("\n Task 3 \n");
+    printf("Uses routines on Newtonian gravitational three-body problem \n");
+    printf("Data is put into PathNewton.txt and plotted in PathNewton.pyxplot.png\n"); 
+
     n = 12; 
     gsl_vector* yaNewton = gsl_vector_alloc(n); 
     gsl_vector* ybNewton = gsl_vector_alloc(n); 
@@ -114,7 +124,7 @@ int main() {
     gsl_vector_set(yaNewton,10, -0.93240737); 
     gsl_vector_set(yaNewton,11, -0.86473146); 
     a = 0, b = 10, h = 0.01, acc = 1e-3, eps = 1e-3;
-    driver(fNewton, a, yaNewton, b, ybNewton, h, acc, eps, "TheWayNewton.txt"); 
+    driver(fNewton, a, yaNewton, b, ybNewton, h, acc, eps, "PathNewton.txt"); 
     
     
     

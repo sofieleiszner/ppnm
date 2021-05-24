@@ -1,11 +1,11 @@
 \
 set terminal png;\
-set output "C1And2.pyxplot.png";\
+set output "C1AndC2.pyxplot.png";\
 set key top right;\
 set tics out;\
 set xlabel "rmax";\
 set ylabel "Energy";\
-set title "C2";\
+set title "Comparisson of C1 and C2";\
 plot \
 "C1.txt" using 1:2 with points title "C1"\
 ,"C2.txt" using 1:2 with points title "C2"\

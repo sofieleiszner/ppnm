@@ -1,0 +1,10 @@
+Task A and B
+Builds rkstep12 and driver
+Checks if the routines work with the example u''=-u 
+Data is put into Path_u_uprime.txt and plotted in Path_u_uprime.pyxplot.png
+Uses routines on SIR model of epidemic devolpment 
+Data is put into PathSIR.txt and plotted in PathSIR.pyxplot.png
+
+ Task 3 
+Uses routines on Newtonian gravitational three-body problem 
+Data is put into PathNewton.txt and plotted in PathNewton.pyxplot.png

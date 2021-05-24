@@ -1,7 +1,30 @@
-x =
+Task A
+Implements the function newton
+Finds roots of the function: f(x)=(x+1)^2
+x_root =
   -0.99414 
-x2 =
+The exact result is -1 
+Finds extremums of Rosenbrock's valley function f(x,y)=(1-x)^2+100*(y-x^2)^2 
+x_min =
          1 
          1 
-e =
+The exact result is (1,1) 
+
+Task B
+Bound states of hydrogen atom with shooting method for boundary value problems 
+Finds the lowest root ε0 of the equation M(ε)=0 for rmax = 8
+ε0 =
  -0.499975 
+The exact result is -1/2 
+The data is put into hydrogenatom.txt
+See plot of the resulting function in Hydrogen.pyxplot.png
+
+Task C
+Uses the boundary condition f(rmax)=0 to investigate convergence of the solution as a function of rmax 
+The data is put into C1.txt
+See plot C1.pyxplot.png
+Uses the boundary condition f(rmax->infinity)= r*exp(-k*r) instead for k = sqrt(-2ε)
+The data is put into C2.txt
+See plot C2.pyxplot.png
+For comparisson of the two see C1AndC2.pyxplot.png
+The plot shows that C2 converges much faster to the correct solution

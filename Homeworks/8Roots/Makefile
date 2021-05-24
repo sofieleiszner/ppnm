@@ -3,7 +3,7 @@ CFLAGS += $(shell /usr/bin/gsl-config --cflags)
 LDLIBS += $(shell /usr/bin/gsl-config --libs)
 CC = gcc
 
-default: Hydrogen.pyxplot.png C1.pyxplot.png C2.pyxplot.png C1And2.pyxplot.png
+default: Hydrogen.pyxplot.png C1.pyxplot.png C2.pyxplot.png C1AndC2.pyxplot.png
 
 Hydrogen.pyxplot.png: hydrogenatom.txt main Makefile out.txt
 	echo '\
@@ -49,7 +49,7 @@ C2.pyxplot.png: hydrogenatom.txt main Makefile out.txt
     , -0.5 with lines title "Exact Result"\
 	' | tee tmp.gpi | pyxplot
 
-C1And2.pyxplot.png: hydrogenatom.txt main Makefile out.txt
+C1AndC2.pyxplot.png: hydrogenatom.txt main Makefile out.txt
 	echo '\
 	set terminal png;\
 	set output "$@";\
@@ -57,7 +57,7 @@ C1And2.pyxplot.png: hydrogenatom.txt main Makefile out.txt
 	set tics out;\
 	set xlabel "rmax";\
 	set ylabel "Energy";\
-	set title "C2";\
+	set title "Comparisson of C1 and C2";\
 	plot \
 	"C1.txt" using 1:2 with points title "C1"\
 	,"C2.txt" using 1:2 with points title "C2"\
