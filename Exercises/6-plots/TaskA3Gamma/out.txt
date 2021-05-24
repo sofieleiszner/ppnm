@@ -1,0 +1,3 @@
+Task A3 
+Data is in data.txt 
+See plot in gamma.pyxplot.png 

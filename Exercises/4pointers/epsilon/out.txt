@@ -1,9 +1,0 @@
-i = 100 
-sum_up_float = 5.17738 
-i = 100 
-sum_down_float = 5.18738 
-i = 100 
-sum_up_double = 5.17738 
-i = 100 
-sum_down_double = 5.18738 
-equal_result = 1

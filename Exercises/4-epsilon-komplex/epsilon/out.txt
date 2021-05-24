@@ -1,0 +1,53 @@
+Task 1
+Task 1i
+My max int (while loop) = 2147483647 
+My max int (do while loop) = 2147483647
+My max int (for loop) = 2147483647
+Comparisson with INT_MAX from limits.h, INT_MAX = 2147483647
+
+Task 1ii
+My minimum int (while loop) = -2147483648 
+My minimum int (do while loop) = -2147483648
+My minimum int (for loop) = -2147483648
+Comparisson with INT_MIN from limits.h, INT_MIN = -2147483648
+
+Task 1iii
+With while loops:
+With float, machine eps = 0.0000001192
+With double, machine eps = 2.220446049e-16
+With long double, machine eps = 2.220446049e-16
+With do while loops:
+With float, machine eps = 0.0000001192
+With double, machine eps = 2.220446049e-16
+With long double, machine eps = 2.220446049e-16
+With for loops:
+With float, machine eps = 0.0000001192
+With double, machine eps = 2.220446049e-16
+With long double, machine eps = 2.220446049e-16
+Comparisson with FLT_EPSILON from limits.h,  FLT_EPSILON = 0.0000001192
+Comparisson with DBL_EPSILON from limits.h,  DBL_EPSILON = 2.220446049e-16
+Comparisson with LDBL_EPSILON from limits.h, LDBL_EPSILON = 1.084202172e-19
+
+Task 2
+
+Task 2i
+sum_up_float = 15.4037 
+sum_down_float = 18.8079 
+It gives greater precision to add the small numbers first.  
+If you first add large numbers and then add the small numbers, the small 
+numbers will just be some insignificant small digits that cannot be saved due 
+to limited number of bits (in computer memory). 
+
+Task 2iii
+No, the harmonic series is divergent
+
+Task 2iv
+sum_up_double = 20.96616604 
+sum_down_double = 20.96616604 
+The difference between the two sums is now very small, because of the increased precision of doubles compared to floats
+
+Task 3
+Checks if a and b are equal with regards to the relative precision (eps) and absolute precision (tau) given to the function 
+The function returns 1 if the numbers 'a' and 'b' are equal with absolute precision 'tau',or are equal with relative precision 'epsilon', and returns 0 otherwise.
+equal(a = 8.3, b = 8.2, tau = 0.5, eps = 0.1) = 1 
+equal(a = 8.3, b = 9.0, tau = 0.5, eps = 0.01) = 0 

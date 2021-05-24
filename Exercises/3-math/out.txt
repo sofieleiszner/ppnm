@@ -1,0 +1,17 @@
+Subtask 1:
+Gamma function, Γ(5) =3.17805
+Bessel function, J_1(0.5) = 0.242268 
+sqrt(2) = 0 I1.41421 
+exp(i*pi) = -1 I1.22465e-16 
+exp(i) = 0.540302 I0.841471 
+i^e = -0.42822 I-0.903675 
+i^i = 0.20788 I0 
+
+Subtask 2:
+Float = 0.1111111119389533996582031 
+Double = 0.1111111111111111049432054 
+Long double = 0.1111111111111111111096053 
+Float holds 9 significant digits
+Double holds 16 significant digits
+Long double holds 19 significant digits
+

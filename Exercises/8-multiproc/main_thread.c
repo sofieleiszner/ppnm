@@ -4,7 +4,6 @@
 #include <pthread.h>
 
 
-
 typedef struct{
     double x; 
     double y;} 
@@ -16,8 +15,6 @@ typedef struct{
     seedN; 
 
 int inorout(point p){
-    //Returns 1 if inside circle or 0 if outside 
-    //point punkt = *(point*)p; 
     double x_vrdi = p.x;
     double y_vrdi = p.y;
     if(sqrt(pow(x_vrdi,2)+pow(y_vrdi,2))<1){return 1;}
@@ -29,7 +26,6 @@ void* howmanyinside(void* arg) //N is number of points
     seedN * param = (seedN*) arg; 
     int N = (*param).N; 
     unsigned int seed = (*param).seed;
-    //int ilimit = N; //Jeg er i tvivl om denne * skal være der
     int sum = 0 ;
     for (int i = 0; i < N; i++) {
     point p1 = {.x=((double)rand_r(&seed)/RAND_MAX),.y=((double)rand_r(&seed)/RAND_MAX)};     
@@ -39,7 +35,10 @@ void* howmanyinside(void* arg) //N is number of points
 return NULL;
 }
 
+
+
 int main() {
+    printf("Task A\n");
     int N = 1000000;
     pthread_t threadx, thready;
     pthread_attr_t* attributes = NULL;

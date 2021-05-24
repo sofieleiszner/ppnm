@@ -1,0 +1,3 @@
+Task B
+Data is saved in data.txt.
+See erf.pyxplot.png for plot.

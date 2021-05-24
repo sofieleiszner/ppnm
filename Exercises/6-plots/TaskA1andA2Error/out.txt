@@ -1,0 +1,7 @@
+Task A 
+Task A1 
+Installation done 
+Task A2 
+Error function approximation implemented in erf.c 
+Data is in data.txt 
+See plot in erf.pyxplot.png 
