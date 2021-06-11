@@ -1,0 +1,14 @@
+\
+set terminal png;\
+set output "TaskB.png";\
+set key top left;\
+set tics out;\
+set xlabel "x";\
+set ylabel "y";\
+set title "Neural network interpolates cos(5*x-1)*exp(-abs(x))";\
+plot \
+"dataB.txt" using 1:2 with lines title "Derivative"\
+,"dataB.txt" using 1:3 with lines title "Estimated y"\
+,"dataB.txt" using 1:4 with lines title "Anti-derivative"\
+,"dataB.txt" using 1:5 with lines title "Exact y"\
+

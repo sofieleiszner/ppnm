@@ -1,0 +1,47 @@
+Task A
+qnewton is impleneted in functions.c
+---------------------------------------------------------------------------------
+Finds minimum of f(x)=(x+1)^2-3
+Number of iterations = 2
+x =
+        -1 
+The exact minimum is at x = -1
+---------------------------------------------------------------------------------
+Finds minimum of f(x,y) = x^2+y^2
+Number of iterations = 2
+x_f2 =
+-1.49012e-08 
+-1.49012e-08 
+The exact result is (0,0)
+---------------------------------------------------------------------------------
+Finds minimum of Rosenbrock's valley function: f(x,y)=(1-x)^2+100*(y-x^2)^2 
+Number of iterations = 310
+x_rose =
+  0.999867 
+  0.999735 
+The exact result is (1,1)
+---------------------------------------------------------------------------------
+Finds minimum of Himmelblau's valley function: f(x,y)=(x^2+y-11)^2+(x+y^2-7)^2 
+Number of iterations = 66
+x_Himmel =
+   3.58443 
+  -1.84816 
+The exact results are (3,2), (-2.805,3.131), (-3.779, -3.283) and (3.584, -1.848) 
+--------------------------------------------------------------------------------
+
+Task B: Higgs discovery 
+Fits the data with Brei-Wigner function by minimizing the deviation function in the task description
+Number of iterations = 932
+x_BW =
+   125.972 
+    2.0892 
+   9.89027 
+Meaning that the mass of the boson is 125.97 +- 2.0892 GeV/c^2
+Comparison: The result from 2012: 125.3 +- 0.6 GeV/c^2
+---------------------------------------------------------------------------------
+
+Task C: Downhill Simplex method 
+Finds minimum of the Rosenbrock function
+Minimum (x,y) = (0.999999, 0.999999)
+Number of iterations = 84
+The exact result is (1,1)

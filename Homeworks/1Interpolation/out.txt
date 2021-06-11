@@ -1,0 +1,16 @@
+Task A
+Data from the file input.dat is loaded into gsl_vectors x and y
+The linear interpolation function is in linterp.c
+Integration of the linear spline is implemented in linterp_integ.c
+See plot in fig-linterp-pyxplot.png
+Task B
+Quadratic spline is implemented in quad.c
+And the corresponding derivaive and integral in quad_diff and quad_integ
+See plot in fig-quadterp-pyxplot.png
+Task C
+Quadratic spline is implemented in cubic.c
+And the corresponding derivaive and integral in cubic_diff and cubic_integ
+See plot in fig-cubicterp-pyxplot.png
+All data for linear, quadratic and cubic spline is put into linterp.dat
+All implementations are compared with GSL spline routines
+Program done

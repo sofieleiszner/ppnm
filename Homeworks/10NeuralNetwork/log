@@ -1,0 +1,2000 @@
+qnewton: fy=0.191852 < fx=0.192243
+qnewton: fy=0.189065 < fx=0.191852
+qnewton: fy=0.18788 < fx=0.189065
+qnewton: fy=0.186814 < fx=0.18788
+qnewton: fy=0.18527 < fx=0.186814
+qnewton: fy=0.183644 < fx=0.18527
+qnewton: fy=0.182237 < fx=0.183644
+qnewton: fy=0.179113 < fx=0.182237
+qnewton: fy=0.175593 < fx=0.179113
+qnewton: fy=0.17011 < fx=0.175593
+qnewton: fy=0.160568 < fx=0.17011
+qnewton: fy=0.147528 < fx=0.160568
+qnewton: fy=0.135623 < fx=0.147528
+qnewton: fy=0.129305 < fx=0.135623
+qnewton: fy=0.124962 < fx=0.129305
+qnewton: fy=0.123428 < fx=0.124962
+qnewton: fy=0.116647 < fx=0.123428
+qnewton: fy=0.115851 < fx=0.116647
+qnewton: fy=0.107656 < fx=0.115851
+qnewton: fy=0.106751 < fx=0.107656
+qnewton: lambda<dx !!!
+qnewton: fy=0.10303 < fx=0.106757
+qnewton: fy=0.101244 < fx=0.10303
+qnewton: fy=0.0957706 < fx=0.101244
+qnewton: fy=0.093768 < fx=0.0957706
+qnewton: fy=0.0926345 < fx=0.093768
+qnewton: lambda<dx !!!
+qnewton: fy=0.0908668 < fx=0.0926347
+qnewton: fy=0.0889492 < fx=0.0908668
+qnewton: fy=0.0877336 < fx=0.0889492
+qnewton: fy=0.0876357 < fx=0.0877336
+qnewton: fy=0.0868503 < fx=0.0876357
+qnewton: fy=0.0861361 < fx=0.0868503
+qnewton: fy=0.0860007 < fx=0.0861361
+qnewton: fy=0.085758 < fx=0.0860007
+qnewton: fy=0.0849647 < fx=0.085758
+qnewton: fy=0.0844421 < fx=0.0849647
+qnewton: fy=0.0842224 < fx=0.0844421
+qnewton: fy=0.0835123 < fx=0.0842224
+qnewton: fy=0.0824133 < fx=0.0835123
+qnewton: fy=0.08227 < fx=0.0824133
+qnewton: fy=0.0816126 < fx=0.08227
+qnewton: fy=0.0799803 < fx=0.0816126
+qnewton: fy=0.0792554 < fx=0.0799803
+qnewton: fy=0.0779567 < fx=0.0792554
+qnewton: fy=0.0769945 < fx=0.0779567
+qnewton: fy=0.0767829 < fx=0.0769945
+qnewton: fy=0.0759831 < fx=0.0767829
+qnewton: fy=0.0759589 < fx=0.0759831
+qnewton: fy=0.0759081 < fx=0.0759589
+qnewton: fy=0.0757054 < fx=0.0759081
+qnewton: fy=0.0745619 < fx=0.0757054
+qnewton: fy=0.0742537 < fx=0.0745619
+qnewton: fy=0.0739443 < fx=0.0742537
+qnewton: fy=0.0734679 < fx=0.0739443
+qnewton: fy=0.0729905 < fx=0.0734679
+qnewton: fy=0.0728981 < fx=0.0729905
+qnewton: fy=0.0727358 < fx=0.0728981
+qnewton: fy=0.0718243 < fx=0.0727358
+qnewton: fy=0.0715385 < fx=0.0718243
+qnewton: fy=0.0714104 < fx=0.0715385
+qnewton: fy=0.0712222 < fx=0.0714104
+qnewton: fy=0.0709573 < fx=0.0712222
+qnewton: fy=0.0708216 < fx=0.0709573
+qnewton: fy=0.0707422 < fx=0.0708216
+qnewton: fy=0.0705006 < fx=0.0707422
+qnewton: fy=0.0702159 < fx=0.0705006
+qnewton: fy=0.0701733 < fx=0.0702159
+qnewton: fy=0.0700826 < fx=0.0701733
+qnewton: fy=0.0698502 < fx=0.0700826
+qnewton: fy=0.0698088 < fx=0.0698502
+qnewton: fy=0.0695712 < fx=0.0698088
+qnewton: fy=0.0693421 < fx=0.0695712
+qnewton: fy=0.0692973 < fx=0.0693421
+qnewton: fy=0.069285 < fx=0.0692973
+qnewton: fy=0.0692395 < fx=0.069285
+qnewton: fy=0.0691039 < fx=0.0692395
+qnewton: fy=0.0688409 < fx=0.0691039
+qnewton: fy=0.0687972 < fx=0.0688409
+qnewton: fy=0.0686847 < fx=0.0687972
+qnewton: fy=0.0686645 < fx=0.0686847
+qnewton: fy=0.06856 < fx=0.0686645
+qnewton: fy=0.0682301 < fx=0.06856
+qnewton: fy=0.0681088 < fx=0.0682301
+qnewton: fy=0.0680191 < fx=0.0681088
+qnewton: fy=0.0678936 < fx=0.0680191
+qnewton: fy=0.0677659 < fx=0.0678936
+qnewton: fy=0.0676313 < fx=0.0677659
+qnewton: fy=0.0674153 < fx=0.0676313
+qnewton: fy=0.0673945 < fx=0.0674153
+qnewton: fy=0.0672707 < fx=0.0673945
+qnewton: fy=0.0672406 < fx=0.0672707
+qnewton: fy=0.06714 < fx=0.0672406
+qnewton: fy=0.0671143 < fx=0.06714
+qnewton: fy=0.0669814 < fx=0.0671143
+qnewton: fy=0.066918 < fx=0.0669814
+qnewton: fy=0.0668861 < fx=0.066918
+qnewton: fy=0.066864 < fx=0.0668861
+qnewton: fy=0.0666191 < fx=0.066864
+qnewton: fy=0.0665356 < fx=0.0666191
+qnewton: fy=0.0662401 < fx=0.0665356
+qnewton: fy=0.0659244 < fx=0.0662401
+qnewton: fy=0.0646708 < fx=0.0659244
+qnewton: fy=0.0644492 < fx=0.0646708
+qnewton: fy=0.0640971 < fx=0.0644492
+qnewton: fy=0.0640192 < fx=0.0640971
+qnewton: fy=0.0639335 < fx=0.0640192
+qnewton: fy=0.0637665 < fx=0.0639335
+qnewton: fy=0.0615646 < fx=0.0637665
+qnewton: fy=0.0607623 < fx=0.0615646
+qnewton: fy=0.0598787 < fx=0.0607623
+qnewton: fy=0.0597433 < fx=0.0598787
+qnewton: fy=0.0587164 < fx=0.0597433
+qnewton: fy=0.0584595 < fx=0.0587164
+qnewton: fy=0.0573686 < fx=0.0584595
+qnewton: fy=0.0570789 < fx=0.0573686
+qnewton: fy=0.0570126 < fx=0.0570789
+qnewton: fy=0.056828 < fx=0.0570126
+qnewton: fy=0.0560971 < fx=0.056828
+qnewton: fy=0.0535693 < fx=0.0560971
+qnewton: lambda<dx !!!
+qnewton: fy=0.0531553 < fx=0.0535722
+qnewton: fy=0.0523009 < fx=0.0531553
+qnewton: fy=0.0515432 < fx=0.0523009
+qnewton: fy=0.0512542 < fx=0.0515432
+qnewton: fy=0.0509686 < fx=0.0512542
+qnewton: fy=0.0504951 < fx=0.0509686
+qnewton: fy=0.0499386 < fx=0.0504951
+qnewton: fy=0.0494603 < fx=0.0499386
+qnewton: fy=0.0486098 < fx=0.0494603
+qnewton: fy=0.0481396 < fx=0.0486098
+qnewton: fy=0.048087 < fx=0.0481396
+qnewton: fy=0.0471204 < fx=0.048087
+qnewton: fy=0.0467209 < fx=0.0471204
+qnewton: fy=0.0460198 < fx=0.0467209
+qnewton: fy=0.0458011 < fx=0.0460198
+qnewton: fy=0.0456852 < fx=0.0458011
+qnewton: fy=0.0454069 < fx=0.0456852
+qnewton: fy=0.0450126 < fx=0.0454069
+qnewton: fy=0.0445951 < fx=0.0450126
+qnewton: fy=0.0442364 < fx=0.0445951
+qnewton: fy=0.0440268 < fx=0.0442364
+qnewton: fy=0.0436081 < fx=0.0440268
+qnewton: fy=0.043213 < fx=0.0436081
+qnewton: fy=0.0430177 < fx=0.043213
+qnewton: fy=0.0421093 < fx=0.0430177
+qnewton: fy=0.0413464 < fx=0.0421093
+qnewton: fy=0.0409391 < fx=0.0413464
+qnewton: fy=0.0406919 < fx=0.0409391
+qnewton: fy=0.0400049 < fx=0.0406919
+qnewton: fy=0.0394773 < fx=0.0400049
+qnewton: fy=0.0391167 < fx=0.0394773
+qnewton: fy=0.0385255 < fx=0.0391167
+qnewton: fy=0.0373753 < fx=0.0385255
+qnewton: fy=0.0365105 < fx=0.0373753
+qnewton: fy=0.0356628 < fx=0.0365105
+qnewton: fy=0.0353105 < fx=0.0356628
+qnewton: fy=0.0350304 < fx=0.0353105
+qnewton: fy=0.0341361 < fx=0.0350304
+qnewton: fy=0.0332428 < fx=0.0341361
+qnewton: fy=0.0329487 < fx=0.0332428
+qnewton: fy=0.0321929 < fx=0.0329487
+qnewton: fy=0.0306967 < fx=0.0321929
+qnewton: fy=0.0303838 < fx=0.0306967
+qnewton: fy=0.0299836 < fx=0.0303838
+qnewton: fy=0.0292741 < fx=0.0299836
+qnewton: fy=0.0290341 < fx=0.0292741
+qnewton: fy=0.0287992 < fx=0.0290341
+qnewton: fy=0.0286732 < fx=0.0287992
+qnewton: fy=0.0282432 < fx=0.0286732
+qnewton: fy=0.0278788 < fx=0.0282432
+qnewton: fy=0.0276208 < fx=0.0278788
+qnewton: fy=0.0275186 < fx=0.0276208
+qnewton: fy=0.0270332 < fx=0.0275186
+qnewton: fy=0.0267537 < fx=0.0270332
+qnewton: fy=0.0264112 < fx=0.0267537
+qnewton: fy=0.026176 < fx=0.0264112
+qnewton: fy=0.0259838 < fx=0.026176
+qnewton: fy=0.0256399 < fx=0.0259838
+qnewton: fy=0.0253898 < fx=0.0256399
+qnewton: fy=0.0253565 < fx=0.0253898
+qnewton: fy=0.0249998 < fx=0.0253565
+qnewton: fy=0.0249846 < fx=0.0249998
+qnewton: fy=0.0247504 < fx=0.0249846
+qnewton: fy=0.0245937 < fx=0.0247504
+qnewton: fy=0.0242184 < fx=0.0245937
+qnewton: fy=0.0240977 < fx=0.0242184
+qnewton: fy=0.0239912 < fx=0.0240977
+qnewton: fy=0.0238932 < fx=0.0239912
+qnewton: fy=0.0238093 < fx=0.0238932
+qnewton: fy=0.0238016 < fx=0.0238093
+qnewton: fy=0.023647 < fx=0.0238016
+qnewton: fy=0.0235953 < fx=0.023647
+qnewton: fy=0.0234854 < fx=0.0235953
+qnewton: fy=0.0234093 < fx=0.0234854
+qnewton: fy=0.0233419 < fx=0.0234093
+qnewton: fy=0.0233261 < fx=0.0233419
+qnewton: fy=0.0231558 < fx=0.0233261
+qnewton: fy=0.0230491 < fx=0.0231558
+qnewton: fy=0.0230059 < fx=0.0230491
+qnewton: fy=0.0229279 < fx=0.0230059
+qnewton: fy=0.0228641 < fx=0.0229279
+qnewton: fy=0.0228368 < fx=0.0228641
+qnewton: fy=0.0227678 < fx=0.0228368
+qnewton: fy=0.0226998 < fx=0.0227678
+qnewton: fy=0.0226948 < fx=0.0226998
+qnewton: fy=0.0226634 < fx=0.0226948
+qnewton: fy=0.0226121 < fx=0.0226634
+qnewton: fy=0.0224869 < fx=0.0226121
+qnewton: fy=0.0224759 < fx=0.0224869
+qnewton: fy=0.0223128 < fx=0.0224759
+qnewton: fy=0.0222512 < fx=0.0223128
+qnewton: fy=0.0221836 < fx=0.0222512
+qnewton: fy=0.0220986 < fx=0.0221836
+qnewton: fy=0.0220278 < fx=0.0220986
+qnewton: fy=0.0219382 < fx=0.0220278
+qnewton: fy=0.0217226 < fx=0.0219382
+qnewton: fy=0.0216788 < fx=0.0217226
+qnewton: fy=0.021564 < fx=0.0216788
+qnewton: fy=0.021484 < fx=0.021564
+qnewton: fy=0.0213166 < fx=0.021484
+qnewton: fy=0.0212868 < fx=0.0213166
+qnewton: fy=0.0212461 < fx=0.0212868
+qnewton: fy=0.0211693 < fx=0.0212461
+qnewton: fy=0.0211486 < fx=0.0211693
+qnewton: fy=0.0211074 < fx=0.0211486
+qnewton: fy=0.0210521 < fx=0.0211074
+qnewton: fy=0.0209909 < fx=0.0210521
+qnewton: fy=0.0209729 < fx=0.0209909
+qnewton: fy=0.02091 < fx=0.0209729
+qnewton: fy=0.0208788 < fx=0.02091
+qnewton: fy=0.0208614 < fx=0.0208788
+qnewton: fy=0.0208219 < fx=0.0208614
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.020797 < fx=0.0208436
+qnewton: lambda<dx !!!
+qnewton: fy=0.0207481 < fx=0.0208107
+qnewton: fy=0.0207448 < fx=0.0207481
+qnewton: fy=0.0207229 < fx=0.0207448
+qnewton: lambda<dx !!!
+qnewton: fy=0.0207141 < fx=0.0207334
+qnewton: fy=0.0207115 < fx=0.0207141
+qnewton: fy=0.0206885 < fx=0.0207115
+qnewton: lambda<dx !!!
+qnewton: fy=0.0206493 < fx=0.0206929
+qnewton: lambda<dx !!!
+qnewton: fy=0.0206723 < fx=0.0206897
+qnewton: fy=0.0206478 < fx=0.0206723
+qnewton: fy=0.0206177 < fx=0.0206478
+qnewton: lambda<dx !!!
+qnewton: fy=0.0206028 < fx=0.0206232
+qnewton: lambda<dx !!!
+qnewton: fy=0.0206291 < fx=0.0206298
+qnewton: fy=0.0205958 < fx=0.0206291
+qnewton: lambda<dx !!!
+qnewton: fy=0.0205791 < fx=0.020601
+qnewton: fy=0.0205561 < fx=0.0205791
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0205565 < fx=0.0205795
+qnewton: fy=0.020548 < fx=0.0205565
+qnewton: fy=0.0205421 < fx=0.020548
+qnewton: fy=0.0205176 < fx=0.0205421
+qnewton: lambda<dx !!!
+qnewton: fy=0.0205003 < fx=0.0205296
+qnewton: lambda<dx !!!
+qnewton: fy=0.020537 < fx=0.0205431
+qnewton: fy=0.02051 < fx=0.020537
+qnewton: fy=0.0204933 < fx=0.02051
+qnewton: lambda<dx !!!
+qnewton: fy=0.0204985 < fx=0.0205109
+qnewton: fy=0.0204927 < fx=0.0204985
+qnewton: fy=0.0204819 < fx=0.0204927
+qnewton: fy=0.0204691 < fx=0.0204819
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0204787 < fx=0.0205013
+qnewton: fy=0.0204712 < fx=0.0204787
+qnewton: fy=0.0204678 < fx=0.0204712
+qnewton: fy=0.0204406 < fx=0.0204678
+qnewton: lambda<dx !!!
+qnewton: fy=0.0204282 < fx=0.0204508
+qnewton: lambda<dx !!!
+qnewton: fy=0.020455 < fx=0.0204688
+qnewton: fy=0.0204517 < fx=0.020455
+qnewton: fy=0.0204342 < fx=0.0204517
+qnewton: fy=0.0204223 < fx=0.0204342
+qnewton: lambda<dx !!!
+qnewton: fy=0.0204118 < fx=0.0204234
+qnewton: fy=0.0204113 < fx=0.0204118
+qnewton: fy=0.0203959 < fx=0.0204113
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203908 < fx=0.0204
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203954 < fx=0.0204265
+qnewton: fy=0.0203794 < fx=0.0203954
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203518 < fx=0.0203843
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203637 < fx=0.0203806
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203432 < fx=0.020371
+qnewton: fy=0.0203355 < fx=0.0203432
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203339 < fx=0.0203372
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203091 < fx=0.0203377
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203167 < fx=0.0203254
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203239 < fx=0.0203334
+qnewton: fy=0.0203052 < fx=0.0203239
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202936 < fx=0.0203155
+qnewton: lambda<dx !!!
+qnewton: fy=0.0203307 < fx=0.0203378
+qnewton: fy=0.0202875 < fx=0.0203307
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202811 < fx=0.0203276
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202897 < fx=0.0202994
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202865 < fx=0.0203075
+qnewton: fy=0.020283 < fx=0.0202865
+qnewton: fy=0.0202782 < fx=0.020283
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202695 < fx=0.0202799
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202603 < fx=0.0202698
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202518 < fx=0.0202744
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202572 < fx=0.0202761
+qnewton: fy=0.0202547 < fx=0.0202572
+qnewton: fy=0.0202505 < fx=0.0202547
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202271 < fx=0.0202532
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202362 < fx=0.0202439
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202472 < fx=0.0202475
+qnewton: fy=0.020223 < fx=0.0202472
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202271 < fx=0.020241
+qnewton: fy=0.0202117 < fx=0.0202271
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202023 < fx=0.0202252
+qnewton: lambda<dx !!!
+qnewton: fy=0.020202 < fx=0.0202485
+qnewton: lambda<dx !!!
+qnewton: fy=0.0202033 < fx=0.0202187
+qnewton: fy=0.0201845 < fx=0.0202033
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201994 < fx=0.0202144
+qnewton: lambda<dx !!!
+qnewton: fy=0.020177 < fx=0.0202056
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201923 < fx=0.0202019
+qnewton: fy=0.0201841 < fx=0.0201923
+qnewton: fy=0.0201706 < fx=0.0201841
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201725 < fx=0.0202043
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201631 < fx=0.0201844
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201649 < fx=0.0201943
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201737 < fx=0.0201792
+qnewton: lambda<dx !!!
+qnewton: fy=0.02016 < fx=0.0201825
+qnewton: fy=0.0201588 < fx=0.02016
+qnewton: fy=0.0201449 < fx=0.0201588
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201505 < fx=0.0201739
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201429 < fx=0.0201623
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201371 < fx=0.0201631
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201295 < fx=0.0201432
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201336 < fx=0.0201401
+qnewton: fy=0.0201259 < fx=0.0201336
+qnewton: fy=0.0201239 < fx=0.0201259
+qnewton: fy=0.0201148 < fx=0.0201239
+qnewton: lambda<dx !!!
+qnewton: fy=0.020121 < fx=0.0201323
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201006 < fx=0.0201213
+qnewton: fy=0.0200999 < fx=0.0201006
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200979 < fx=0.0201191
+qnewton: lambda<dx !!!
+qnewton: fy=0.0201016 < fx=0.0201191
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200917 < fx=0.0201181
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200909 < fx=0.020106
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200871 < fx=0.0201115
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200744 < fx=0.0200918
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.020063 < fx=0.0200907
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200703 < fx=0.0200881
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200544 < fx=0.0200889
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200542 < fx=0.0200737
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200582 < fx=0.0200655
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200452 < fx=0.0200753
+qnewton: fy=0.0200399 < fx=0.0200452
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200391 < fx=0.0200555
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200444 < fx=0.020051
+qnewton: fy=0.0200285 < fx=0.0200444
+qnewton: lambda<dx !!!
+qnewton: fy=0.020037 < fx=0.0200554
+qnewton: fy=0.0200351 < fx=0.020037
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200278 < fx=0.020036
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200294 < fx=0.0200332
+qnewton: fy=0.0200251 < fx=0.0200294
+qnewton: fy=0.0200139 < fx=0.0200251
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200199 < fx=0.0200376
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200217 < fx=0.0200261
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200167 < fx=0.0200342
+qnewton: fy=0.0200139 < fx=0.0200167
+qnewton: fy=0.0200027 < fx=0.0200139
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200142 < fx=0.0200208
+qnewton: fy=0.0200042 < fx=0.0200142
+qnewton: lambda<dx !!!
+qnewton: fy=0.0200109 < fx=0.0200146
+qnewton: fy=0.019985 < fx=0.0200109
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.020002 < fx=0.0200069
+qnewton: fy=0.0199844 < fx=0.020002
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019991 < fx=0.0200131
+qnewton: fy=0.0199904 < fx=0.019991
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199818 < fx=0.0199932
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199813 < fx=0.0199946
+qnewton: fy=0.0199674 < fx=0.0199813
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199747 < fx=0.0200119
+qnewton: lambda<dx !!!
+qnewton: fy=0.01998 < fx=0.020005
+qnewton: fy=0.0199756 < fx=0.01998
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199688 < fx=0.019988
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199717 < fx=0.0199975
+qnewton: fy=0.0199655 < fx=0.0199717
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199693 < fx=0.0199749
+qnewton: fy=0.0199547 < fx=0.0199693
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199537 < fx=0.0199678
+qnewton: fy=0.0199507 < fx=0.0199537
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199455 < fx=0.0200032
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199507 < fx=0.0199591
+qnewton: fy=0.0199484 < fx=0.0199507
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199487 < fx=0.0199601
+qnewton: fy=0.0199326 < fx=0.0199487
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199486 < fx=0.0199621
+qnewton: fy=0.0199468 < fx=0.0199486
+qnewton: fy=0.0199349 < fx=0.0199468
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199301 < fx=0.0199447
+qnewton: fy=0.0199226 < fx=0.0199301
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199308 < fx=0.0199605
+qnewton: fy=0.0199278 < fx=0.0199308
+qnewton: fy=0.0199163 < fx=0.0199278
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199266 < fx=0.019939
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.01993 < fx=0.0199408
+qnewton: fy=0.0199288 < fx=0.01993
+qnewton: lambda<dx !!!
+qnewton: fy=0.019908 < fx=0.0199301
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199128 < fx=0.0199273
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199282 < fx=0.0199338
+qnewton: fy=0.0199242 < fx=0.0199282
+qnewton: fy=0.0199235 < fx=0.0199242
+qnewton: fy=0.0198949 < fx=0.0199235
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198989 < fx=0.0199329
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198997 < fx=0.0199247
+qnewton: fy=0.0198944 < fx=0.0198997
+qnewton: lambda<dx !!!
+qnewton: fy=0.0199071 < fx=0.0199091
+qnewton: fy=0.0198808 < fx=0.0199071
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198979 < fx=0.0199179
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198904 < fx=0.0199003
+qnewton: fy=0.0198838 < fx=0.0198904
+qnewton: lambda<dx !!!
+qnewton: fy=0.019888 < fx=0.0198912
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198838 < fx=0.0199029
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198861 < fx=0.019889
+qnewton: fy=0.0198825 < fx=0.0198861
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198731 < fx=0.0198958
+qnewton: fy=0.0198695 < fx=0.0198731
+qnewton: lambda<dx !!!
+qnewton: fy=0.019875 < fx=0.0198974
+qnewton: fy=0.0198624 < fx=0.019875
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198752 < fx=0.0198787
+qnewton: fy=0.0198737 < fx=0.0198752
+qnewton: fy=0.0198675 < fx=0.0198737
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198625 < fx=0.0198845
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198561 < fx=0.0198672
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198577 < fx=0.0198734
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198713 < fx=0.0198824
+qnewton: fy=0.019866 < fx=0.0198713
+qnewton: fy=0.0198651 < fx=0.019866
+qnewton: fy=0.0198594 < fx=0.0198651
+qnewton: fy=0.019856 < fx=0.0198594
+qnewton: fy=0.0198527 < fx=0.019856
+qnewton: lambda<dx !!!
+qnewton: fy=0.019849 < fx=0.0198758
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198485 < fx=0.0198674
+qnewton: fy=0.0198482 < fx=0.0198485
+qnewton: fy=0.0198415 < fx=0.0198482
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198541 < fx=0.0198556
+qnewton: fy=0.0198486 < fx=0.0198541
+qnewton: fy=0.01984 < fx=0.0198486
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198481 < fx=0.0198496
+qnewton: fy=0.0198364 < fx=0.0198481
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198434 < fx=0.0198714
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198423 < fx=0.019845
+qnewton: fy=0.0198336 < fx=0.0198423
+qnewton: fy=0.0198321 < fx=0.0198336
+qnewton: lambda<dx !!!
+qnewton: fy=0.019831 < fx=0.0198514
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198405 < fx=0.019859
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198432 < fx=0.0198445
+qnewton: fy=0.0198295 < fx=0.0198432
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198341 < fx=0.019851
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198219 < fx=0.0198481
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198307 < fx=0.0198435
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198203 < fx=0.0198523
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198266 < fx=0.0198321
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198253 < fx=0.0198311
+qnewton: lambda<dx !!!
+qnewton: fy=0.019826 < fx=0.0198386
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198242 < fx=0.0198307
+qnewton: fy=0.0198199 < fx=0.0198242
+qnewton: fy=0.0198076 < fx=0.0198199
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198185 < fx=0.0198304
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198353 < fx=0.0198426
+qnewton: lambda<dx !!!
+qnewton: fy=0.019818 < fx=0.0198446
+qnewton: fy=0.0198157 < fx=0.019818
+qnewton: fy=0.0198129 < fx=0.0198157
+qnewton: fy=0.0198076 < fx=0.0198129
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197997 < fx=0.019823
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198087 < fx=0.0198328
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197951 < fx=0.0198397
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198101 < fx=0.0198287
+qnewton: fy=0.0197885 < fx=0.0198101
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197995 < fx=0.0198174
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197982 < fx=0.0198371
+qnewton: fy=0.0197906 < fx=0.0197982
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019794 < fx=0.0198405
+qnewton: fy=0.0197819 < fx=0.019794
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197938 < fx=0.0198373
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197967 < fx=0.0198136
+qnewton: fy=0.0197887 < fx=0.0197967
+qnewton: fy=0.0197779 < fx=0.0197887
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197995 < fx=0.0198182
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198099 < fx=0.0198257
+qnewton: fy=0.0197913 < fx=0.0198099
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197972 < fx=0.0198004
+qnewton: fy=0.0197917 < fx=0.0197972
+qnewton: lambda<dx !!!
+qnewton: fy=0.019862 < fx=0.0198782
+qnewton: fy=0.0198343 < fx=0.019862
+qnewton: lambda<dx !!!
+qnewton: fy=0.019822 < fx=0.0198841
+qnewton: fy=0.0198141 < fx=0.019822
+qnewton: fy=0.0197987 < fx=0.0198141
+qnewton: fy=0.0197768 < fx=0.0197987
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197866 < fx=0.0198069
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198047 < fx=0.0198704
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198093 < fx=0.0198156
+qnewton: fy=0.019799 < fx=0.0198093
+qnewton: fy=0.01979 < fx=0.019799
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197971 < fx=0.0198175
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197778 < fx=0.0198161
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198007 < fx=0.0198126
+qnewton: fy=0.0197811 < fx=0.0198007
+qnewton: fy=0.0197701 < fx=0.0197811
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197808 < fx=0.0197891
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197922 < fx=0.0198238
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197731 < fx=0.0198216
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197832 < fx=0.0197841
+qnewton: fy=0.0197713 < fx=0.0197832
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197689 < fx=0.0198884
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197879 < fx=0.0197975
+qnewton: fy=0.0197805 < fx=0.0197879
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197949 < fx=0.0197983
+qnewton: fy=0.0197741 < fx=0.0197949
+qnewton: fy=0.0197659 < fx=0.0197741
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019771 < fx=0.0198479
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197699 < fx=0.0198064
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197682 < fx=0.0197932
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197721 < fx=0.0198547
+qnewton: fy=0.0197696 < fx=0.0197721
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197715 < fx=0.0198898
+qnewton: fy=0.0197634 < fx=0.0197715
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197658 < fx=0.0197831
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197729 < fx=0.0198001
+qnewton: fy=0.0197665 < fx=0.0197729
+qnewton: fy=0.0197565 < fx=0.0197665
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197674 < fx=0.0197708
+qnewton: fy=0.0197625 < fx=0.0197674
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197629 < fx=0.0198805
+qnewton: fy=0.0197519 < fx=0.0197629
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197633 < fx=0.0197849
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197621 < fx=0.019897
+qnewton: fy=0.0197577 < fx=0.0197621
+qnewton: fy=0.0197546 < fx=0.0197577
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197643 < fx=0.0197873
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197564 < fx=0.0198909
+qnewton: fy=0.0197518 < fx=0.0197564
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197507 < fx=0.0197917
+qnewton: fy=0.0197479 < fx=0.0197507
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197506 < fx=0.0198357
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197541 < fx=0.0197921
+qnewton: fy=0.0197525 < fx=0.0197541
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197622 < fx=0.0197651
+qnewton: fy=0.0197541 < fx=0.0197622
+qnewton: fy=0.0197404 < fx=0.0197541
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197437 < fx=0.0197871
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019757 < fx=0.0198944
+qnewton: fy=0.0197396 < fx=0.019757
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197541 < fx=0.0197929
+qnewton: fy=0.019753 < fx=0.0197541
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197541 < fx=0.0198884
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197557 < fx=0.0198687
+qnewton: fy=0.0197535 < fx=0.0197557
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197485 < fx=0.0197746
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197548 < fx=0.0198866
+qnewton: fy=0.019733 < fx=0.0197548
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019771 < fx=0.0198667
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197388 < fx=0.0198392
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019745 < fx=0.019782
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197478 < fx=0.0198562
+qnewton: fy=0.0197357 < fx=0.0197478
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197981 < fx=0.0198489
+qnewton: fy=0.0197425 < fx=0.0197981
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197473 < fx=0.0197597
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197451 < fx=0.0198466
+qnewton: fy=0.0197416 < fx=0.0197451
+qnewton: fy=0.0197397 < fx=0.0197416
+qnewton: lambda<dx !!!
+qnewton: fy=0.01975 < fx=0.019766
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197386 < fx=0.0198428
+qnewton: fy=0.0197364 < fx=0.0197386
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197412 < fx=0.0197743
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197399 < fx=0.0198544
+qnewton: fy=0.0197343 < fx=0.0197399
+qnewton: fy=0.0197291 < fx=0.0197343
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197402 < fx=0.0197761
+qnewton: fy=0.019732 < fx=0.0197402
+qnewton: lambda<dx !!!
+qnewton: fy=0.019737 < fx=0.0197571
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197428 < fx=0.0198562
+qnewton: fy=0.0197251 < fx=0.0197428
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197339 < fx=0.0197364
+qnewton: fy=0.0197252 < fx=0.0197339
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197417 < fx=0.0198468
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197312 < fx=0.0198214
+qnewton: fy=0.0197263 < fx=0.0197312
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197358 < fx=0.0198353
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197374 < fx=0.0198487
+qnewton: fy=0.0197318 < fx=0.0197374
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197319 < fx=0.0197489
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197388 < fx=0.0198486
+qnewton: fy=0.0197235 < fx=0.0197388
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197316 < fx=0.0197626
+qnewton: fy=0.0197264 < fx=0.0197316
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197388 < fx=0.0197424
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197293 < fx=0.0198511
+qnewton: fy=0.0197248 < fx=0.0197293
+qnewton: fy=0.0197159 < fx=0.0197248
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0198317 < fx=0.0198404
+qnewton: fy=0.0197982 < fx=0.0198317
+qnewton: fy=0.019768 < fx=0.0197982
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197363 < fx=0.0198143
+qnewton: fy=0.0197291 < fx=0.0197363
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197333 < fx=0.0198256
+qnewton: fy=0.0197259 < fx=0.0197333
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197137 < fx=0.0197352
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197302 < fx=0.0198183
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197191 < fx=0.0197373
+qnewton: lambda<dx !!!
+qnewton: fy=0.019717 < fx=0.0197304
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197317 < fx=0.0198152
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197252 < fx=0.0197973
+qnewton: fy=0.0197242 < fx=0.0197252
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197187 < fx=0.0197408
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197247 < fx=0.0197299
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197222 < fx=0.0197328
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197755 < fx=0.019805
+qnewton: fy=0.0197164 < fx=0.0197755
+qnewton: fy=0.0197078 < fx=0.0197164
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197579 < fx=0.0198117
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197748 < fx=0.0197991
+qnewton: fy=0.0197542 < fx=0.0197748
+qnewton: fy=0.0197386 < fx=0.0197542
+qnewton: fy=0.0197185 < fx=0.0197386
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197169 < fx=0.0197372
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197239 < fx=0.0198134
+qnewton: fy=0.0197136 < fx=0.0197239
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197159 < fx=0.0197376
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197119 < fx=0.0198062
+qnewton: fy=0.0197092 < fx=0.0197119
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197066 < fx=0.0197433
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197141 < fx=0.0197284
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197145 < fx=0.0198117
+qnewton: fy=0.0197031 < fx=0.0197145
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197069 < fx=0.0197421
+qnewton: fy=0.0197045 < fx=0.0197069
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197138 < fx=0.0197274
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197151 < fx=0.0198172
+qnewton: fy=0.0196946 < fx=0.0197151
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197212 < fx=0.0198224
+qnewton: fy=0.0197043 < fx=0.0197212
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197181 < fx=0.0197266
+qnewton: fy=0.019705 < fx=0.0197181
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197067 < fx=0.0197174
+qnewton: fy=0.0197037 < fx=0.0197067
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197069 < fx=0.0197159
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197748 < fx=0.0197872
+qnewton: fy=0.0196965 < fx=0.0197748
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197155 < fx=0.0198112
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197028 < fx=0.0197863
+qnewton: fy=0.0196921 < fx=0.0197028
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196947 < fx=0.0197278
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197036 < fx=0.0198063
+qnewton: fy=0.0196955 < fx=0.0197036
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196956 < fx=0.0197316
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196931 < fx=0.0198019
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196988 < fx=0.019767
+qnewton: fy=0.0196879 < fx=0.0196988
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197063 < fx=0.0197193
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196961 < fx=0.0197876
+qnewton: fy=0.0196924 < fx=0.0196961
+qnewton: fy=0.0196844 < fx=0.0196924
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197214 < fx=0.0198185
+qnewton: fy=0.0196997 < fx=0.0197214
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196974 < fx=0.0197895
+qnewton: fy=0.0196863 < fx=0.0196974
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197069 < fx=0.0198067
+qnewton: fy=0.019692 < fx=0.0197069
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196954 < fx=0.0197003
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196995 < fx=0.0197003
+qnewton: fy=0.019698 < fx=0.0196995
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197408 < fx=0.0197891
+qnewton: fy=0.0196795 < fx=0.0197408
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196995 < fx=0.0197977
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196875 < fx=0.0197748
+qnewton: fy=0.0196863 < fx=0.0196875
+qnewton: fy=0.0196785 < fx=0.0196863
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196831 < fx=0.019714
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196837 < fx=0.0197796
+qnewton: fy=0.0196801 < fx=0.0196837
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197359 < fx=0.0197654
+qnewton: fy=0.019724 < fx=0.0197359
+qnewton: fy=0.0197056 < fx=0.019724
+qnewton: fy=0.0196815 < fx=0.0197056
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197223 < fx=0.0197794
+qnewton: fy=0.0197214 < fx=0.0197223
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196943 < fx=0.0197652
+qnewton: fy=0.0196763 < fx=0.0196943
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196855 < fx=0.0196944
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196862 < fx=0.0197709
+qnewton: fy=0.0196742 < fx=0.0196862
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196785 < fx=0.0197092
+qnewton: fy=0.0196776 < fx=0.0196785
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196848 < fx=0.0196956
+qnewton: fy=0.0196817 < fx=0.0196848
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196817 < fx=0.0196942
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196812 < fx=0.0196868
+qnewton: fy=0.0196798 < fx=0.0196812
+qnewton: fy=0.0196592 < fx=0.0196798
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197289 < fx=0.0197947
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019701 < fx=0.0197475
+qnewton: fy=0.0196729 < fx=0.019701
+qnewton: fy=0.0196654 < fx=0.0196729
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196673 < fx=0.0197004
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196735 < fx=0.019687
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196744 < fx=0.0197724
+qnewton: fy=0.0196666 < fx=0.0196744
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196675 < fx=0.0197046
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196747 < fx=0.0197809
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019672 < fx=0.0197602
+qnewton: fy=0.0196623 < fx=0.019672
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196999 < fx=0.0197767
+qnewton: fy=0.0196801 < fx=0.0196999
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196627 < fx=0.0196841
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197376 < fx=0.0197495
+qnewton: fy=0.0196655 < fx=0.0197376
+qnewton: fy=0.019661 < fx=0.0196655
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196748 < fx=0.0197784
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196674 < fx=0.0197591
+qnewton: fy=0.0196631 < fx=0.0196674
+qnewton: fy=0.0196526 < fx=0.0196631
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196817 < fx=0.0197749
+qnewton: fy=0.0196607 < fx=0.0196817
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196674 < fx=0.0196736
+qnewton: fy=0.0196663 < fx=0.0196674
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196604 < fx=0.019755
+qnewton: fy=0.0196602 < fx=0.0196604
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196794 < fx=0.0197754
+qnewton: fy=0.0196718 < fx=0.0196794
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196678 < fx=0.0197563
+qnewton: fy=0.0196465 < fx=0.0196678
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196518 < fx=0.0196867
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196705 < fx=0.0197432
+qnewton: fy=0.0196692 < fx=0.0196705
+qnewton: fy=0.0196658 < fx=0.0196692
+qnewton: fy=0.0196562 < fx=0.0196658
+qnewton: fy=0.0196445 < fx=0.0196562
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196853 < fx=0.0197577
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196803 < fx=0.0197239
+qnewton: fy=0.0196625 < fx=0.0196803
+qnewton: fy=0.0196623 < fx=0.0196625
+qnewton: fy=0.0196487 < fx=0.0196623
+qnewton: fy=0.0196432 < fx=0.0196487
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197704 < fx=0.0197708
+qnewton: fy=0.0197155 < fx=0.0197704
+qnewton: fy=0.0197138 < fx=0.0197155
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196629 < fx=0.0197244
+qnewton: fy=0.0196464 < fx=0.0196629
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196577 < fx=0.0196602
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196576 < fx=0.0196612
+qnewton: fy=0.019656 < fx=0.0196576
+qnewton: fy=0.0196411 < fx=0.019656
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196544 < fx=0.0196914
+qnewton: fy=0.0196446 < fx=0.0196544
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196542 < fx=0.0197459
+qnewton: fy=0.0196339 < fx=0.0196542
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197067 < fx=0.019729
+qnewton: fy=0.0196515 < fx=0.0197067
+qnewton: fy=0.0196432 < fx=0.0196515
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196553 < fx=0.0197481
+qnewton: fy=0.0196502 < fx=0.0196553
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196562 < fx=0.0196568
+qnewton: lambda<dx !!!
+qnewton: fy=0.0197158 < fx=0.019727
+qnewton: fy=0.0196386 < fx=0.0197158
+qnewton: fy=0.0196361 < fx=0.0196386
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196486 < fx=0.01965
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196474 < fx=0.0197451
+qnewton: fy=0.0196335 < fx=0.0196474
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196441 < fx=0.019667
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196376 < fx=0.0196507
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196456 < fx=0.0196499
+qnewton: fy=0.0196392 < fx=0.0196456
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196382 < fx=0.0197498
+qnewton: fy=0.0196353 < fx=0.0196382
+qnewton: fy=0.0196285 < fx=0.0196353
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196504 < fx=0.019751
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196379 < fx=0.0197249
+qnewton: fy=0.0196295 < fx=0.0196379
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019651 < fx=0.0197577
+qnewton: fy=0.0196399 < fx=0.019651
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196422 < fx=0.0196463
+qnewton: fy=0.0196377 < fx=0.0196422
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196408 < fx=0.0196445
+qnewton: fy=0.0196282 < fx=0.0196408
+qnewton: fy=0.0196238 < fx=0.0196282
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196242 < fx=0.0196625
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196325 < fx=0.0197506
+qnewton: fy=0.0196241 < fx=0.0196325
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196321 < fx=0.0197108
+qnewton: fy=0.0196295 < fx=0.0196321
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196368 < fx=0.0197403
+qnewton: fy=0.0196274 < fx=0.0196368
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196342 < fx=0.0196406
+qnewton: fy=0.0196283 < fx=0.0196342
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196258 < fx=0.0197209
+qnewton: fy=0.0196224 < fx=0.0196258
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196225 < fx=0.0196434
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196303 < fx=0.0196384
+qnewton: fy=0.0196288 < fx=0.0196303
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196336 < fx=0.0196358
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196303 < fx=0.0197412
+qnewton: fy=0.0196202 < fx=0.0196303
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196233 < fx=0.0196604
+qnewton: fy=0.0196194 < fx=0.0196233
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196319 < fx=0.0196436
+qnewton: fy=0.019626 < fx=0.0196319
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196301 < fx=0.0197447
+qnewton: fy=0.0196206 < fx=0.0196301
+qnewton: fy=0.0196125 < fx=0.0196206
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196252 < fx=0.0196485
+qnewton: fy=0.0196157 < fx=0.0196252
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196296 < fx=0.0196352
+qnewton: fy=0.019626 < fx=0.0196296
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196227 < fx=0.0197387
+qnewton: fy=0.0196171 < fx=0.0196227
+qnewton: fy=0.0196076 < fx=0.0196171
+qnewton: lambda<dx !!!
+qnewton: fy=0.019617 < fx=0.019655
+qnewton: fy=0.0196122 < fx=0.019617
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196225 < fx=0.019635
+qnewton: fy=0.0196195 < fx=0.0196225
+qnewton: lambda<dx !!!
+qnewton: fy=0.019627 < fx=0.0197464
+qnewton: fy=0.0196119 < fx=0.019627
+qnewton: fy=0.0196114 < fx=0.0196119
+qnewton: lambda<dx !!!
+qnewton: fy=0.01961 < fx=0.0196493
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196161 < fx=0.0196434
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.01962 < fx=0.0197392
+qnewton: fy=0.0196102 < fx=0.01962
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196733 < fx=0.0197117
+qnewton: fy=0.0196188 < fx=0.0196733
+qnewton: fy=0.0196156 < fx=0.0196188
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196176 < fx=0.0196208
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019617 < fx=0.0197134
+qnewton: fy=0.0196074 < fx=0.019617
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196148 < fx=0.0196387
+qnewton: fy=0.0196142 < fx=0.0196148
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196261 < fx=0.0197257
+qnewton: fy=0.0195997 < fx=0.0196261
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196091 < fx=0.0196471
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196132 < fx=0.0197001
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196181 < fx=0.0196872
+qnewton: fy=0.0196099 < fx=0.0196181
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196158 < fx=0.0196404
+qnewton: fy=0.0196154 < fx=0.0196158
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196176 < fx=0.0197036
+qnewton: fy=0.0195971 < fx=0.0196176
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196122 < fx=0.019613
+qnewton: fy=0.0195969 < fx=0.0196122
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196102 < fx=0.019703
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196111 < fx=0.019618
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196675 < fx=0.0196957
+qnewton: fy=0.0196033 < fx=0.0196675
+qnewton: fy=0.0196033 < fx=0.0196033
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196157 < fx=0.0197048
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196084 < fx=0.0196826
+qnewton: fy=0.0196001 < fx=0.0196084
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196052 < fx=0.0196366
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196082 < fx=0.019695
+qnewton: fy=0.0195959 < fx=0.0196082
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195903 < fx=0.0196064
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196315 < fx=0.0196973
+qnewton: fy=0.0196121 < fx=0.0196315
+qnewton: fy=0.0196104 < fx=0.0196121
+qnewton: fy=0.0196067 < fx=0.0196104
+qnewton: fy=0.0195924 < fx=0.0196067
+qnewton: fy=0.0195883 < fx=0.0195924
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195969 < fx=0.0196342
+qnewton: fy=0.019592 < fx=0.0195969
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196041 < fx=0.0196182
+qnewton: fy=0.0195985 < fx=0.0196041
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196011 < fx=0.0196106
+qnewton: fy=0.0195995 < fx=0.0196011
+qnewton: fy=0.0195993 < fx=0.0195995
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196007 < fx=0.0196007
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195986 < fx=0.0196052
+qnewton: fy=0.0195965 < fx=0.0195986
+qnewton: fy=0.0195884 < fx=0.0195965
+qnewton: fy=0.0195879 < fx=0.0195884
+qnewton: fy=0.019587 < fx=0.0195879
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195886 < fx=0.0196276
+qnewton: fy=0.0195875 < fx=0.0195886
+qnewton: lambda<dx !!!
+qnewton: fy=0.019591 < fx=0.0196105
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195962 < fx=0.0197107
+qnewton: fy=0.0195893 < fx=0.0195962
+qnewton: fy=0.0195813 < fx=0.0195893
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195912 < fx=0.0196258
+qnewton: fy=0.019582 < fx=0.0195912
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195902 < fx=0.0196118
+qnewton: fy=0.0195901 < fx=0.0195902
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195898 < fx=0.0197113
+qnewton: fy=0.0195863 < fx=0.0195898
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195885 < fx=0.0196769
+qnewton: fy=0.0195811 < fx=0.0195885
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195845 < fx=0.0196069
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195877 < fx=0.0196985
+qnewton: fy=0.0195842 < fx=0.0195877
+qnewton: lambda<dx !!!
+qnewton: fy=0.019639 < fx=0.0196851
+qnewton: fy=0.0195892 < fx=0.019639
+qnewton: fy=0.0195874 < fx=0.0195892
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195909 < fx=0.0195966
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195875 < fx=0.0196796
+qnewton: fy=0.0195742 < fx=0.0195875
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195843 < fx=0.0196147
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196048 < fx=0.0196733
+qnewton: fy=0.0196031 < fx=0.0196048
+qnewton: fy=0.0195998 < fx=0.0196031
+qnewton: fy=0.0195807 < fx=0.0195998
+qnewton: fy=0.0195654 < fx=0.0195807
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196068 < fx=0.019693
+qnewton: fy=0.0196033 < fx=0.0196068
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195808 < fx=0.0196834
+qnewton: fy=0.01958 < fx=0.0195808
+qnewton: fy=0.0195708 < fx=0.01958
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195761 < fx=0.0196175
+qnewton: fy=0.0195719 < fx=0.0195761
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195806 < fx=0.019602
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195758 < fx=0.0196944
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195876 < fx=0.0196824
+qnewton: fy=0.0195774 < fx=0.0195876
+qnewton: fy=0.0195694 < fx=0.0195774
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195749 < fx=0.0195939
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195858 < fx=0.019686
+qnewton: fy=0.0195654 < fx=0.0195858
+qnewton: fy=0.0195638 < fx=0.0195654
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195754 < fx=0.0196101
+qnewton: fy=0.0195712 < fx=0.0195754
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195775 < fx=0.0196745
+qnewton: fy=0.0195614 < fx=0.0195775
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196214 < fx=0.0196709
+qnewton: fy=0.0196171 < fx=0.0196214
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196165 < fx=0.0196868
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019586 < fx=0.0196548
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195685 < fx=0.0195928
+qnewton: fy=0.0195656 < fx=0.0195685
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195739 < fx=0.0196081
+qnewton: fy=0.0195611 < fx=0.0195739
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195734 < fx=0.0195923
+qnewton: fy=0.0195636 < fx=0.0195734
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195706 < fx=0.0196721
+qnewton: fy=0.0195627 < fx=0.0195706
+qnewton: fy=0.0195611 < fx=0.0195627
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195705 < fx=0.0196077
+qnewton: fy=0.0195594 < fx=0.0195705
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195707 < fx=0.019588
+qnewton: fy=0.019565 < fx=0.0195707
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195726 < fx=0.019677
+qnewton: fy=0.0195525 < fx=0.0195726
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196201 < fx=0.0196461
+qnewton: fy=0.0195675 < fx=0.0196201
+qnewton: fy=0.0195579 < fx=0.0195675
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195704 < fx=0.0195843
+qnewton: fy=0.0195636 < fx=0.0195704
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019569 < fx=0.0195726
+qnewton: fy=0.0195684 < fx=0.019569
+qnewton: fy=0.0195683 < fx=0.0195684
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195741 < fx=0.0195742
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019572 < fx=0.0196364
+qnewton: fy=0.0195523 < fx=0.019572
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019591 < fx=0.0196648
+qnewton: fy=0.0195724 < fx=0.019591
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195638 < fx=0.0195743
+qnewton: lambda<dx !!!
+qnewton: fy=0.0196164 < fx=0.019647
+qnewton: fy=0.0195569 < fx=0.0196164
+qnewton: fy=0.0195541 < fx=0.0195569
+qnewton: lambda<dx !!!
+qnewton: fy=0.01956 < fx=0.0195705
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019565 < fx=0.0196593
+qnewton: fy=0.0195482 < fx=0.019565
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195562 < fx=0.0195925
+qnewton: fy=0.019554 < fx=0.0195562
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195629 < fx=0.0195759
+qnewton: fy=0.0195531 < fx=0.0195629
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195625 < fx=0.0196634
+qnewton: fy=0.0195425 < fx=0.0195625
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195429 < fx=0.0195596
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195629 < fx=0.0196639
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195614 < fx=0.0196454
+qnewton: fy=0.0195411 < fx=0.0195614
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195506 < fx=0.019582
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195884 < fx=0.0196446
+qnewton: fy=0.0195679 < fx=0.0195884
+qnewton: fy=0.0195624 < fx=0.0195679
+qnewton: fy=0.0195558 < fx=0.0195624
+qnewton: fy=0.0195395 < fx=0.0195558
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195511 < fx=0.0195802
+qnewton: fy=0.0195472 < fx=0.0195511
+qnewton: lambda<dx !!!
+qnewton: fy=0.019556 < fx=0.0196645
+qnewton: fy=0.019542 < fx=0.019556
+qnewton: lambda<dx !!!
+qnewton: fy=0.019606 < fx=0.0196223
+qnewton: fy=0.0195457 < fx=0.019606
+qnewton: fy=0.0195359 < fx=0.0195457
+qnewton: lambda<dx !!!
+qnewton: fy=0.019555 < fx=0.0195682
+qnewton: fy=0.0195465 < fx=0.019555
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195452 < fx=0.0196512
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195458 < fx=0.0196194
+qnewton: fy=0.0195377 < fx=0.0195458
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195687 < fx=0.0196552
+qnewton: fy=0.0195474 < fx=0.0195687
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195441 < fx=0.0196301
+qnewton: fy=0.0195382 < fx=0.0195441
+qnewton: fy=0.0195315 < fx=0.0195382
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195404 < fx=0.0195815
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195486 < fx=0.0195652
+qnewton: fy=0.019538 < fx=0.0195486
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195441 < fx=0.0195587
+qnewton: fy=0.0195362 < fx=0.0195441
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195397 < fx=0.0195537
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195433 < fx=0.0195499
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195414 < fx=0.0196446
+qnewton: fy=0.019535 < fx=0.0195414
+qnewton: fy=0.0195213 < fx=0.019535
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195361 < fx=0.0195907
+qnewton: fy=0.0195284 < fx=0.0195361
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019545 < fx=0.0196458
+qnewton: fy=0.0195347 < fx=0.019545
+qnewton: fy=0.0195299 < fx=0.0195347
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195906 < fx=0.0196189
+qnewton: fy=0.0195668 < fx=0.0195906
+qnewton: fy=0.019555 < fx=0.0195668
+qnewton: fy=0.0195329 < fx=0.019555
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195372 < fx=0.0195634
+qnewton: fy=0.0195308 < fx=0.0195372
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019533 < fx=0.0196268
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195349 < fx=0.019593
+qnewton: fy=0.0195279 < fx=0.0195349
+qnewton: lambda<dx !!!
+qnewton: fy=0.019541 < fx=0.0195554
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195442 < fx=0.0196154
+qnewton: fy=0.0195279 < fx=0.0195442
+qnewton: fy=0.0195274 < fx=0.0195279
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195344 < fx=0.0195692
+qnewton: fy=0.0195291 < fx=0.0195344
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195582 < fx=0.0196237
+qnewton: fy=0.0195512 < fx=0.0195582
+qnewton: fy=0.0195413 < fx=0.0195512
+qnewton: fy=0.019538 < fx=0.0195413
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195746 < fx=0.0196205
+qnewton: fy=0.0195259 < fx=0.0195746
+qnewton: fy=0.0195228 < fx=0.0195259
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195567 < fx=0.0196253
+qnewton: fy=0.0195432 < fx=0.0195567
+qnewton: lambda<dx !!!
+qnewton: fy=0.019532 < fx=0.0196109
+qnewton: fy=0.0195316 < fx=0.019532
+qnewton: fy=0.0195156 < fx=0.0195316
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195288 < fx=0.0196321
+qnewton: fy=0.0195252 < fx=0.0195288
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195299 < fx=0.0196118
+qnewton: fy=0.0195118 < fx=0.0195299
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195258 < fx=0.0195624
+qnewton: fy=0.0195161 < fx=0.0195258
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195575 < fx=0.0196133
+qnewton: fy=0.0195469 < fx=0.0195575
+qnewton: fy=0.0195373 < fx=0.0195469
+qnewton: fy=0.0195224 < fx=0.0195373
+qnewton: lambda<dx !!!
+qnewton: fy=0.019576 < fx=0.0195874
+qnewton: fy=0.0195263 < fx=0.019576
+qnewton: fy=0.0195105 < fx=0.0195263
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195492 < fx=0.0196243
+qnewton: fy=0.0195306 < fx=0.0195492
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195255 < fx=0.0196078
+qnewton: fy=0.0195197 < fx=0.0195255
+qnewton: fy=0.0195048 < fx=0.0195197
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195196 < fx=0.0195452
+qnewton: fy=0.0195159 < fx=0.0195196
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195272 < fx=0.0196098
+qnewton: fy=0.019511 < fx=0.0195272
+qnewton: fy=0.0195079 < fx=0.019511
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195113 < fx=0.0195276
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195268 < fx=0.0196098
+qnewton: fy=0.0195149 < fx=0.0195268
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195199 < fx=0.0195208
+qnewton: fy=0.0195133 < fx=0.0195199
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195232 < fx=0.0195992
+qnewton: fy=0.0195088 < fx=0.0195232
+qnewton: fy=0.0195068 < fx=0.0195088
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195421 < fx=0.0196205
+qnewton: fy=0.0195265 < fx=0.0195421
+qnewton: fy=0.0195263 < fx=0.0195265
+qnewton: fy=0.0195123 < fx=0.0195263
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195181 < fx=0.0195289
+qnewton: fy=0.0195132 < fx=0.0195181
+qnewton: fy=0.0195063 < fx=0.0195132
+qnewton: fy=0.0194978 < fx=0.0195063
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195148 < fx=0.0195384
+qnewton: fy=0.0195069 < fx=0.0195148
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195134 < fx=0.0196169
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195112 < fx=0.0196071
+qnewton: fy=0.0195106 < fx=0.0195112
+qnewton: fy=0.0194908 < fx=0.0195106
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195081 < fx=0.0195359
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195328 < fx=0.0195953
+qnewton: fy=0.0195179 < fx=0.0195328
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195069 < fx=0.0195217
+qnewton: fy=0.0194909 < fx=0.0195069
+qnewton: fy=0.0194883 < fx=0.0194909
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195084 < fx=0.0195366
+qnewton: fy=0.0195003 < fx=0.0195084
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195068 < fx=0.0195339
+qnewton: fy=0.0194969 < fx=0.0195068
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195069 < fx=0.0196198
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195073 < fx=0.0195128
+qnewton: fy=0.0195046 < fx=0.0195073
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195126 < fx=0.0196077
+qnewton: fy=0.0194998 < fx=0.0195126
+qnewton: fy=0.0194868 < fx=0.0194998
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195326 < fx=0.0196122
+qnewton: fy=0.0195126 < fx=0.0195326
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195026 < fx=0.0196097
+qnewton: fy=0.019495 < fx=0.0195026
+qnewton: fy=0.0194829 < fx=0.019495
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194908 < fx=0.0195044
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195086 < fx=0.0195916
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195027 < fx=0.0195857
+qnewton: fy=0.0194888 < fx=0.0195027
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195035 < fx=0.0195333
+qnewton: fy=0.0194933 < fx=0.0195035
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195052 < fx=0.0195917
+qnewton: fy=0.0195002 < fx=0.0195052
+qnewton: fy=0.0194963 < fx=0.0195002
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194982 < fx=0.0195005
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194921 < fx=0.0194995
+qnewton: fy=0.0194882 < fx=0.0194921
+qnewton: fy=0.0194857 < fx=0.0194882
+qnewton: fy=0.0194857 < fx=0.0194857
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194981 < fx=0.0195242
+qnewton: fy=0.0194943 < fx=0.0194981
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195006 < fx=0.019596
+qnewton: fy=0.0195004 < fx=0.0195006
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194988 < fx=0.01959
+qnewton: fy=0.0194787 < fx=0.0194988
+qnewton: fy=0.0194753 < fx=0.0194787
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195306 < fx=0.0196198
+qnewton: fy=0.0195023 < fx=0.0195306
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194989 < fx=0.0195854
+qnewton: fy=0.0194827 < fx=0.0194989
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195493 < fx=0.0195598
+qnewton: fy=0.0195364 < fx=0.0195493
+qnewton: fy=0.0195338 < fx=0.0195364
+qnewton: fy=0.019509 < fx=0.0195338
+qnewton: fy=0.0194907 < fx=0.019509
+qnewton: fy=0.0194825 < fx=0.0194907
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195348 < fx=0.0195937
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195196 < fx=0.0195563
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195348 < fx=0.0195619
+qnewton: fy=0.0195158 < fx=0.0195348
+qnewton: fy=0.0195053 < fx=0.0195158
+qnewton: fy=0.0194957 < fx=0.0195053
+qnewton: fy=0.0194747 < fx=0.0194957
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194896 < fx=0.0195076
+qnewton: fy=0.0194836 < fx=0.0194896
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194864 < fx=0.0194984
+qnewton: fy=0.0194794 < fx=0.0194864
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194897 < fx=0.0194927
+qnewton: fy=0.019489 < fx=0.0194897
+qnewton: fy=0.0194796 < fx=0.019489
+qnewton: fy=0.0194739 < fx=0.0194796
+qnewton: fy=0.0194717 < fx=0.0194739
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195333 < fx=0.0195865
+qnewton: fy=0.0194955 < fx=0.0195333
+qnewton: fy=0.0194698 < fx=0.0194955
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195003 < fx=0.0195859
+qnewton: fy=0.0194818 < fx=0.0195003
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194747 < fx=0.0194895
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194846 < fx=0.0194926
+qnewton: fy=0.0194772 < fx=0.0194846
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194845 < fx=0.0195936
+qnewton: fy=0.0194664 < fx=0.0194845
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194829 < fx=0.0195044
+qnewton: fy=0.0194796 < fx=0.0194829
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194832 < fx=0.0195791
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019488 < fx=0.0195672
+qnewton: fy=0.0194843 < fx=0.019488
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194805 < fx=0.019486
+qnewton: fy=0.0194775 < fx=0.0194805
+qnewton: fy=0.0194618 < fx=0.0194775
+qnewton: fy=0.0194617 < fx=0.0194618
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194681 < fx=0.0195101
+qnewton: fy=0.0194644 < fx=0.0194681
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195112 < fx=0.0195643
+qnewton: fy=0.0194902 < fx=0.0195112
+qnewton: fy=0.0194829 < fx=0.0194902
+qnewton: fy=0.0194827 < fx=0.0194829
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194699 < fx=0.0195423
+qnewton: fy=0.0194669 < fx=0.0194699
+qnewton: fy=0.0194629 < fx=0.0194669
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194636 < fx=0.0195059
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194732 < fx=0.0195782
+qnewton: fy=0.0194679 < fx=0.0194732
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195285 < fx=0.0195434
+qnewton: fy=0.0195186 < fx=0.0195285
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194798 < fx=0.0195229
+qnewton: fy=0.0194782 < fx=0.0194798
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194673 < fx=0.0195019
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194603 < fx=0.0194686
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194749 < fx=0.0194789
+qnewton: fy=0.0194608 < fx=0.0194749
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194726 < fx=0.0195844
+qnewton: fy=0.0194712 < fx=0.0194726
+qnewton: fy=0.0194631 < fx=0.0194712
+qnewton: fy=0.0194541 < fx=0.0194631
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194632 < fx=0.0194834
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194678 < fx=0.019475
+qnewton: fy=0.019459 < fx=0.0194678
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194708 < fx=0.0195918
+qnewton: fy=0.0194558 < fx=0.0194708
+qnewton: fy=0.019453 < fx=0.0194558
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194568 < fx=0.0195011
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194567 < fx=0.0194612
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194669 < fx=0.0195802
+qnewton: fy=0.0194555 < fx=0.0194669
+qnewton: fy=0.0194452 < fx=0.0194555
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194655 < fx=0.0194968
+qnewton: fy=0.0194541 < fx=0.0194655
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194584 < fx=0.0195712
+qnewton: fy=0.0194542 < fx=0.0194584
+qnewton: fy=0.0194446 < fx=0.0194542
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194667 < fx=0.0194871
+qnewton: fy=0.0194626 < fx=0.0194667
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194603 < fx=0.0195574
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194692 < fx=0.0195208
+qnewton: fy=0.019449 < fx=0.0194692
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195068 < fx=0.0195679
+qnewton: fy=0.0194842 < fx=0.0195068
+qnewton: fy=0.0194539 < fx=0.0194842
+qnewton: fy=0.0194436 < fx=0.0194539
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019458 < fx=0.0194878
+qnewton: fy=0.0194511 < fx=0.019458
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195287 < fx=0.0195486
+qnewton: fy=0.0195154 < fx=0.0195287
+qnewton: fy=0.0194581 < fx=0.0195154
+qnewton: fy=0.0194563 < fx=0.0194581
+qnewton: lambda<dx !!!
+qnewton: fy=0.0195518 < fx=0.0195595
+qnewton: fy=0.0194562 < fx=0.0195518
+qnewton: fy=0.0194518 < fx=0.0194562
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194518 < fx=0.0194905
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194612 < fx=0.0194698
+qnewton: fy=0.0194549 < fx=0.0194612
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.019458 < fx=0.0195378
+qnewton: fy=0.0194486 < fx=0.019458
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194493 < fx=0.0194816
+qnewton: fy=0.0194414 < fx=0.0194493
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194981 < fx=0.0195372
+qnewton: fy=0.0194921 < fx=0.0194981
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194575 < fx=0.0195199
+qnewton: fy=0.019447 < fx=0.0194575
+qnewton: fy=0.0194448 < fx=0.019447
+qnewton: lambda<dx !!!
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194517 < fx=0.0194672
+qnewton: fy=0.0194514 < fx=0.0194517
+qnewton: lambda<dx !!!
+qnewton: fy=0.0194578 < fx=0.0195405
+qnewton: fy=0.0194431 < fx=0.0194578

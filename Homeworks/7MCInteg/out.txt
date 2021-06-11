@@ -1,0 +1,15 @@
+Task A and B
+
+Plain MC and quasi-random MC integrators are implemented in functions.c
+Calculates integral of sqrt(x) from 0 to 1
+Integral of sqrt(x) from 0 to 1 with plain MC        = 0.6666861893, error = 0.0007442960341
+Integral of sqrt(x) from 0 to 1 with quasi-random MC = 0.6666458624, error = 4.124894534e-05
+Exact result: 2/3=0.66667 
+
+Calculates the long integral in the task description of task A.
+Integral of long integral in task A with plain MC        = 1.376261397, error = 0.02521147228
+Integral of long integral in task A with quasi-random MC = 1.382293352, error = 0.0002085638922
+Exact result: 1.3932039296856768591842462603255
+
+For comparison of errors, see the two plots: Error_Integral1.png and Error_Integral2.png
+The errors fall of much faster for the quasi-random MC than plain MC

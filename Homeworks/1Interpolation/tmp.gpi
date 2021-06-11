@@ -1,0 +1,17 @@
+\
+set terminal png;\
+set width 8;\
+set xlabel ";\
+set ylabel ";\
+set fontsize .5;\
+set key right;\
+set output "fig-cubicterp-pyxplot.png";\
+plot \
+"input.dat" using 1:2 with points title "original points" \
+,"linterp.dat" using 1:9 with lines title "cubic interpolation" \
+,"linterp.dat" using 1:10 with lines title "cubic differential" \
+,"linterp.dat" using 1:11 with lines title "cubic integration" \
+,"linterp.dat" using 1:12 with point title "cubic GSL interpolation" \
+,"linterp.dat" using 1:13 with point title "cubic GSL integration" \
+,"linterp.dat" using 1:14 with point title "cubic GSL derivative" \
+
