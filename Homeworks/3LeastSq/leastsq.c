@@ -28,7 +28,7 @@ void leastsq(gsl_vector* x, gsl_vector* y, gsl_vector* dy, gsl_vector* c,gsl_vec
 		}
 	}
 	
-	matrix_print("A=",A); 
+	//matrix_print("A=",A); 
 	
 	gsl_vector* b = gsl_vector_alloc(dy->size);
 	gsl_vector_memcpy(b,y);

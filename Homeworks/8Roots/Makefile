@@ -72,7 +72,7 @@ out.txt: main
 hydrogenatom.txt: main    
 
     
-main: ODEfunctions.c functions.c main.c  functionsLinEq.c
+main: ODEfunctions.o functions.o main.o  functionsLinEq.o
    
     
 clean: 

@@ -50,7 +50,7 @@ A.txt B.txt AA.txt BB.txt:main
 out.txt: main 
 	./$< > $@
     
-main: functions.c main.c 
+main: functions.o main.o
     
 clean: 
 	$(RM) main main.o functions.o *.txt *.png *.gpi *.log

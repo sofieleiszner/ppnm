@@ -30,4 +30,4 @@ main.o GS_decomp.o MeasureDecompTime.o: GS_decomp.c GS_solve.c inverse.c leastsq
         
     
 clean: 
-	$(RM) main main.o GS_decomp.o out.txt least.pyxplot.png datafile.txt
+	$(RM) main *.o out.txt least.pyxplot.png datafile.txt tmp.gpi

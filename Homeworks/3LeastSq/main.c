@@ -14,7 +14,7 @@ void leastsq(gsl_vector* x, gsl_vector* y, gsl_vector* dy,gsl_vector* c,gsl_vect
 double f(int k, double z);
 
 int main(){
-    printf("TAsk A, B and C\n");
+    printf("Task A, B and C\n");
    // int N = 6; int M = 3;
 
     gsl_vector* t = gsl_vector_alloc(9);
@@ -73,73 +73,17 @@ int main(){
 	printf("The half-life time does not agree with modern value within the uncertainty.\n");
 	printf("But the values are not very different and the data is very old, so thats OK.\n");
 
+    printf("The fit:\n"); 
 	vector_print("Vector of coefficients, c = ", c);
 	vector_print("Uncertanties of the coeficients, dc = ", dc);
-    printf("Fit: ln(y)=(%.3g+-%.2g)+(%.3g+-%.1g)*t", gsl_vector_get(c,0), gsl_vector_get(dc,0), gsl_vector_get(c,1), gsl_vector_get(dc,1)); 
+    printf("Fit: ln(y)=(%.3g+-%.2g)+(%.3g+-%.1g)*t \n", gsl_vector_get(c,0), gsl_vector_get(dc,0), gsl_vector_get(c,1), gsl_vector_get(dc,1)); 
     printf("Plot of the three fits and datapoints with errorbars is shown in least.pyxplot.png\n"); 
-	gsl_vector_free(t);
+    gsl_vector_free(t);
     gsl_vector_free(y);
     gsl_vector_free(dy);
     gsl_vector_free(c);
     gsl_vector_free(y_ln);
 
-  //gsl_matrix* A = gsl_matrix_alloc(N, M);
-  //gsl_matrix* A_save = gsl_matrix_alloc(N, M);
-  //gsl_matrix* R = gsl_matrix_alloc(M, M);
-
-
-  //  GenerateMatrix(A, N, M);
-  //  gsl_matrix_memcpy(A_save,A);
-  //
-  //  matrix_print("Random matrix A = ", A);
-  //
-  //  GS_decomp(A, R);
-  //
-  //  printf("\nResults after decomposition: \n");
-  //  matrix_print("R = ", R);
-  //  matrix_print("Q = ", A);
-  //
-  //  printf("\nChecks:\n");
-  //  //check that Q^T*Q;
-  //  printf("Check that Q^T*Q = 1: \n");
-  //  // gsl_blas_dgemm()
-  //  gsl_matrix* QTQ = gsl_matrix_alloc(M, M);
-  //  gsl_matrix* AT = gsl_matrix_alloc(M, N);
-  //  gsl_matrix_transpose_memcpy(AT, A);
-  //  gsl_blas_dgemm(CblasNoTrans, CblasNoTrans, 1.0, AT, A, 0.0, QTQ);
-  //  matrix_print("Q^T*Q =", QTQ);
-  //
-  //  printf("Check that QR=A:\n");
-  //  gsl_matrix* QR = gsl_matrix_alloc(N, M);
-  //  gsl_blas_dgemm(CblasNoTrans, CblasNoTrans, 1.0, A, R, 0.0, QR);
-  //  matrix_print("QR=", QR);
-  //
-  //
-  //  gsl_vector* b=gsl_vector_alloc(N);
-	//for (int i=0;i<N;i++)
-	//	gsl_vector_set(b,i,(double)rand()/RAND_MAX);
-  //  gsl_vector* x = gsl_vector_alloc(M);
-  //  GS_solve(A, R, b, x);
-  //  //Checks Ax = b
-  //  gsl_vector* Ax = gsl_vector_alloc(N);
-  //  gsl_blas_dgemv(CblasNoTrans, 1.0, A_save, x, 0.0, Ax);
-  //  matrix_print("A = ", A_save);
-  //  vector_print("x=", x);
-  //
-  //  vector_print("Ax =", Ax);
-  //  vector_print("b=", b);
-  //
-  //
-  //
-  //  gsl_matrix_free(A);
-  //  gsl_matrix_free(R);
-  //  gsl_matrix_free(QTQ);
-  //  gsl_matrix_free(AT);
-  //  gsl_matrix_free(QR);
-  //  gsl_vector_free(b);
-  //  gsl_vector_free(x);
-  //  gsl_vector_free(Ax);
-  //  gsl_matrix_free(A_save);
 
 
 return 0;

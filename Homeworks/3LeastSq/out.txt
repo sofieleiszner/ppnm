@@ -1,16 +1,6 @@
-TAsk A, B and C
+Task A, B and C
 Reads data from data.txt 
 Does a least square fit with the function leastsq
-A=
-        20        -20 
-        20        -40 
-        20        -60 
-        20        -80 
-        20       -120 
-        20       -180 
-        20       -200 
-        20       -260 
-        20       -300 
 Calculated Covariance marix =
 0.000890278   8.75e-05 
   8.75e-05   1.25e-05 
@@ -22,10 +12,12 @@ Half-life time, table value (today) = 3.6319 days
 Half-life time uncertainty (today) = 0.0023 days
 The half-life time does not agree with modern value within the uncertainty.
 But the values are not very different and the data is very old, so thats OK.
+The fit:
 Vector of coefficients, c = 
    4.95867 
   0.171379 
 Uncertanties of the coeficients, dc = 
  0.0298375 
 0.00353553 
-Fit: ln(y)=(4.96+-0.03)+(0.171+-0.004)*tPlot of the three fits and datapoints with errorbars is shown in least.pyxplot.png
+Fit: ln(y)=(4.96+-0.03)+(0.171+-0.004)*t 
+Plot of the three fits and datapoints with errorbars is shown in least.pyxplot.png

@@ -8,7 +8,7 @@ CC = gcc
 out.txt: main 
 	./$< > $@
     
-main: functions.c main.c 
+main: functions.o main.o 
     
 clean: 
 	$(RM) main main.o functions.o *.txt *.png *.gpi

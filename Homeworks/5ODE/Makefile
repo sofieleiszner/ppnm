@@ -70,7 +70,7 @@ Figure8_Newton.pyxplot.png: PathNewton.txt main Makefile out.txt
 out.txt: main 
 	./$< > $@
     
-main: functions.o main.c 
+main: functions.o main.o
     
 Path.txt: main    
 
