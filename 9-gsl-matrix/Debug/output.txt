@@ -1,3 +1,0 @@
-half m_{00} (should be 33):
-half m_{00} = 33.000000
-status=24 : everything went just fine (status>0)
